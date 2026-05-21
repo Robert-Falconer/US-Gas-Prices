@@ -1,0 +1,52 @@
+State-Name,State-Abbreviation,Regular,Mid-Grade,Premium,Diesel,Currency,Unit,Date
+Alaska,AK,4.008,4.145,4.366,4.141,U.S Dollar,US Gallon,2023-06-09
+Alabama,AL,3.113,3.498,3.875,3.676,U.S Dollar,US Gallon,2023-06-09
+Arkansas,AR,3.121,3.507,3.873,3.671,U.S Dollar,US Gallon,2023-06-09
+Arizona,AZ,4.335,4.672,4.944,4.324,U.S Dollar,US Gallon,2023-06-09
+California,CA,4.891,5.094,5.247,5.068,U.S Dollar,US Gallon,2023-06-09
+Colorado,CO,3.481,3.847,4.136,3.932,U.S Dollar,US Gallon,2023-06-09
+Connecticut,CT,3.635,4.104,4.491,4.135,U.S Dollar,US Gallon,2023-06-09
+District of Columbia,DC,3.667,4.219,4.621,4.32,U.S Dollar,US Gallon,2023-06-09
+Delaware,DE,3.374,3.843,4.099,3.673,U.S Dollar,US Gallon,2023-06-09
+Florida,FL,3.39,3.784,4.103,3.782,U.S Dollar,US Gallon,2023-06-09
+Georgia,GA,3.276,3.677,4.059,3.809,U.S Dollar,US Gallon,2023-06-09
+Hawaii,HI,4.745,4.967,5.223,5.781,U.S Dollar,US Gallon,2023-06-09
+Iowa,IA,3.383,3.623,4.122,3.661,U.S Dollar,US Gallon,2023-06-09
+Idaho,ID,3.963,4.159,4.413,3.996,U.S Dollar,US Gallon,2023-06-09
+Illinois,IL,3.962,4.444,4.873,3.967,U.S Dollar,US Gallon,2023-06-09
+Indiana,IN,3.657,4.103,4.545,4.018,U.S Dollar,US Gallon,2023-06-09
+Kansas,KS,3.257,3.555,3.855,3.637,U.S Dollar,US Gallon,2023-06-09
+Kentucky,KY,3.329,3.781,4.176,3.804,U.S Dollar,US Gallon,2023-06-09
+Louisiana,LA,3.096,3.489,3.836,3.52,U.S Dollar,US Gallon,2023-06-09
+Massachusetts,MA,3.531,4.044,4.383,4.261,U.S Dollar,US Gallon,2023-06-09
+Maryland,MD,3.428,3.943,4.214,3.791,U.S Dollar,US Gallon,2023-06-09
+Maine,ME,3.571,3.97,4.364,4.229,U.S Dollar,US Gallon,2023-06-09
+Michigan,MI,3.644,4.08,4.555,3.972,U.S Dollar,US Gallon,2023-06-09
+Minnesota,MN,3.489,3.778,4.177,3.82,U.S Dollar,US Gallon,2023-06-09
+Missouri,MO,3.201,3.508,3.835,3.567,U.S Dollar,US Gallon,2023-06-09
+Mississippi,MS,2.972,3.344,3.702,3.532,U.S Dollar,US Gallon,2023-06-09
+Montana,MT,3.67,3.974,4.232,4.152,U.S Dollar,US Gallon,2023-06-09
+North Carolina,NC,3.341,3.722,4.069,3.739,U.S Dollar,US Gallon,2023-06-09
+North Dakota,ND,3.461,3.735,4.048,3.911,U.S Dollar,US Gallon,2023-06-09
+Nebraska,NE,3.347,3.545,3.986,3.645,U.S Dollar,US Gallon,2023-06-09
+New Hampshire,NH,3.483,3.9,4.304,4.158,U.S Dollar,US Gallon,2023-06-09
+New Jersey,NJ,3.495,4.016,4.27,3.722,U.S Dollar,US Gallon,2023-06-09
+New Mexico,NM,3.452,3.791,4.072,4.058,U.S Dollar,US Gallon,2023-06-09
+Nevada,NV,4.269,4.512,4.747,4.275,U.S Dollar,US Gallon,2023-06-09
+New York,NY,3.697,4.143,4.498,4.511,U.S Dollar,US Gallon,2023-06-09
+Ohio,OH,3.613,4.019,4.453,3.894,U.S Dollar,US Gallon,2023-06-09
+Oklahoma,OK,3.213,3.541,3.796,3.479,U.S Dollar,US Gallon,2023-06-09
+Oregon,OR,4.402,4.553,4.773,4.412,U.S Dollar,US Gallon,2023-06-09
+Pennsylvania,PA,3.657,4.033,4.305,4.362,U.S Dollar,US Gallon,2023-06-09
+Rhode Island,RI,3.504,4.109,4.444,4.255,U.S Dollar,US Gallon,2023-06-09
+South Carolina,SC,3.185,3.576,3.94,3.64,U.S Dollar,US Gallon,2023-06-09
+South Dakota,SD,3.466,3.628,4.105,3.754,U.S Dollar,US Gallon,2023-06-09
+Tennessee,TN,3.159,3.551,3.902,3.633,U.S Dollar,US Gallon,2023-06-09
+Texas,TX,3.148,3.538,3.87,3.354,U.S Dollar,US Gallon,2023-06-09
+Utah,UT,4.147,4.378,4.577,3.976,U.S Dollar,US Gallon,2023-06-09
+Virginia,VA,3.304,3.71,4.038,3.769,U.S Dollar,US Gallon,2023-06-09
+Vermont,VT,3.588,4.013,4.442,3.952,U.S Dollar,US Gallon,2023-06-09
+Washington,WA,4.771,4.974,5.17,4.938,U.S Dollar,US Gallon,2023-06-09
+Wisconsin,WI,3.564,3.937,4.415,3.673,U.S Dollar,US Gallon,2023-06-09
+West Virginia,WV,3.414,3.726,4.018,3.917,U.S Dollar,US Gallon,2023-06-09
+Wyoming,WY,3.548,3.802,4.071,4.163,U.S Dollar,US Gallon,2023-06-09

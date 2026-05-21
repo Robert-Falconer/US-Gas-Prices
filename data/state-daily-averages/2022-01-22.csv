@@ -1,0 +1,52 @@
+State-Name,State-Abbreviation,Regular,Mid-Grade,Premium,Diesel,Currency,Unit,Date
+Alaska,AK,3.776,3.926,4.128,3.82,U.S Dollar,US Gallon,2022-01-22
+Alabama,AL,3.019,3.369,3.686,3.465,U.S Dollar,US Gallon,2022-01-22
+Arkansas,AR,2.991,3.302,3.58,3.408,U.S Dollar,US Gallon,2022-01-22
+Arizona,AZ,3.572,3.87,4.114,3.855,U.S Dollar,US Gallon,2022-01-22
+California,CA,4.644,4.841,4.97,4.845,U.S Dollar,US Gallon,2022-01-22
+Colorado,CO,3.298,3.625,3.912,3.418,U.S Dollar,US Gallon,2022-01-22
+Connecticut,CT,3.497,3.814,4.025,3.745,U.S Dollar,US Gallon,2022-01-22
+District of Columbia,DC,3.562,4.025,4.167,3.845,U.S Dollar,US Gallon,2022-01-22
+Delaware,DE,3.23,3.621,3.884,3.668,U.S Dollar,US Gallon,2022-01-22
+Florida,FL,3.226,3.601,3.908,3.619,U.S Dollar,US Gallon,2022-01-22
+Georgia,GA,3.132,3.485,3.809,3.54,U.S Dollar,US Gallon,2022-01-22
+Hawaii,HI,4.352,4.548,4.792,4.7,U.S Dollar,US Gallon,2022-01-22
+Iowa,IA,3.15,3.288,3.704,3.479,U.S Dollar,US Gallon,2022-01-22
+Idaho,ID,3.536,3.733,3.933,3.805,U.S Dollar,US Gallon,2022-01-22
+Illinois,IL,3.472,3.838,4.221,3.623,U.S Dollar,US Gallon,2022-01-22
+Indiana,IN,3.15,3.492,3.812,3.655,U.S Dollar,US Gallon,2022-01-22
+Kansas,KS,3.068,3.331,3.568,3.431,U.S Dollar,US Gallon,2022-01-22
+Kentucky,KY,2.975,3.308,3.612,3.425,U.S Dollar,US Gallon,2022-01-22
+Louisiana,LA,3.071,3.392,3.689,3.354,U.S Dollar,US Gallon,2022-01-22
+Massachusetts,MA,3.366,3.665,3.888,3.631,U.S Dollar,US Gallon,2022-01-22
+Maryland,MD,3.273,3.709,3.976,3.677,U.S Dollar,US Gallon,2022-01-22
+Maine,ME,3.419,3.717,3.967,3.747,U.S Dollar,US Gallon,2022-01-22
+Michigan,MI,3.238,3.575,3.905,3.568,U.S Dollar,US Gallon,2022-01-22
+Minnesota,MN,3.166,3.397,3.727,3.572,U.S Dollar,US Gallon,2022-01-22
+Missouri,MO,3.038,3.293,3.559,3.349,U.S Dollar,US Gallon,2022-01-22
+Mississippi,MS,2.98,3.299,3.605,3.334,U.S Dollar,US Gallon,2022-01-22
+Montana,MT,3.394,3.655,3.929,3.727,U.S Dollar,US Gallon,2022-01-22
+North Carolina,NC,3.118,3.479,3.828,3.556,U.S Dollar,US Gallon,2022-01-22
+North Dakota,ND,3.197,3.406,3.621,3.623,U.S Dollar,US Gallon,2022-01-22
+Nebraska,NE,3.156,3.25,3.612,3.459,U.S Dollar,US Gallon,2022-01-22
+New Hampshire,NH,3.272,3.617,3.882,3.597,U.S Dollar,US Gallon,2022-01-22
+New Jersey,NJ,3.384,3.767,3.946,3.732,U.S Dollar,US Gallon,2022-01-22
+New Mexico,NM,3.26,3.575,3.828,3.581,U.S Dollar,US Gallon,2022-01-22
+Nevada,NV,3.808,4.045,4.232,3.913,U.S Dollar,US Gallon,2022-01-22
+New York,NY,3.496,3.8,4.037,3.83,U.S Dollar,US Gallon,2022-01-22
+Ohio,OH,3.044,3.383,3.709,3.647,U.S Dollar,US Gallon,2022-01-22
+Oklahoma,OK,3.015,3.272,3.493,3.299,U.S Dollar,US Gallon,2022-01-22
+Oregon,OR,3.926,4.096,4.286,4.095,U.S Dollar,US Gallon,2022-01-22
+Pennsylvania,PA,3.526,3.857,4.132,3.989,U.S Dollar,US Gallon,2022-01-22
+Rhode Island,RI,3.349,3.711,3.945,3.638,U.S Dollar,US Gallon,2022-01-22
+South Carolina,SC,3.028,3.389,3.72,3.43,U.S Dollar,US Gallon,2022-01-22
+South Dakota,SD,3.209,3.307,3.674,3.588,U.S Dollar,US Gallon,2022-01-22
+Tennessee,TN,3.045,3.39,3.724,3.5,U.S Dollar,US Gallon,2022-01-22
+Texas,TX,3,3.336,3.625,3.345,U.S Dollar,US Gallon,2022-01-22
+Utah,UT,3.385,3.588,3.774,3.717,U.S Dollar,US Gallon,2022-01-22
+Virginia,VA,3.159,3.548,3.869,3.555,U.S Dollar,US Gallon,2022-01-22
+Vermont,VT,3.389,3.677,3.934,3.724,U.S Dollar,US Gallon,2022-01-22
+Washington,WA,3.959,4.175,4.358,4.145,U.S Dollar,US Gallon,2022-01-22
+Wisconsin,WI,3.077,3.404,3.801,3.467,U.S Dollar,US Gallon,2022-01-22
+West Virginia,WV,3.206,3.483,3.765,3.615,U.S Dollar,US Gallon,2022-01-22
+Wyoming,WY,3.313,3.534,3.805,3.705,U.S Dollar,US Gallon,2022-01-22

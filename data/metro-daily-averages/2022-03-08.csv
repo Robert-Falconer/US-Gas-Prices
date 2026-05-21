@@ -1,0 +1,475 @@
+State-Name,State-Abbreviation,Metro-Name,Regular,Mid-Grade,Premium,Diesel,Currency,Unit,Date
+Alaska,AK,Anchorage,4.516,4.626,4.857,4.579,U.S Dollar,US Gallon,2022-03-08
+Alaska,AK,Fairbanks,4.495,4.397,4.586,4.568,U.S Dollar,US Gallon,2022-03-08
+Alaska,AK,Juneau,4.186,4.091,4.199,4.177,U.S Dollar,US Gallon,2022-03-08
+Alabama,AL,Anniston-Oxford,3.946,4.197,4.537,4.749,U.S Dollar,US Gallon,2022-03-08
+Alabama,AL,Auburn,3.983,4.246,4.557,4.708,U.S Dollar,US Gallon,2022-03-08
+Alabama,AL,Birmingham,3.983,4.268,4.615,4.722,U.S Dollar,US Gallon,2022-03-08
+Alabama,AL,Daphne-Fairhope-Foley,4.01,4.266,4.629,4.685,U.S Dollar,US Gallon,2022-03-08
+Alabama,AL,Decatur,3.931,4.192,4.444,4.662,U.S Dollar,US Gallon,2022-03-08
+Alabama,AL,Dothan,4.002,4.298,4.612,4.829,U.S Dollar,US Gallon,2022-03-08
+Alabama,AL,Florence-Muscle Shoals,3.954,4.132,4.481,4.598,U.S Dollar,US Gallon,2022-03-08
+Alabama,AL,Gadsden,3.975,4.319,4.613,4.762,U.S Dollar,US Gallon,2022-03-08
+Alabama,AL,Huntsville,3.97,4.221,4.551,4.688,U.S Dollar,US Gallon,2022-03-08
+Alabama,AL,Mobile,3.957,4.247,4.567,4.653,U.S Dollar,US Gallon,2022-03-08
+Alabama,AL,Montgomery,3.975,4.309,4.673,4.773,U.S Dollar,US Gallon,2022-03-08
+Alabama,AL,Russell County,3.96,4.213,4.547,4.594,U.S Dollar,US Gallon,2022-03-08
+Alabama,AL,Tuscaloosa,3.99,4.272,4.626,4.78,U.S Dollar,US Gallon,2022-03-08
+Arkansas,AR,Fayetteville-Springdale-Rogers,3.701,3.946,4.193,4.333,U.S Dollar,US Gallon,2022-03-08
+Arkansas,AR,Fort Smith (AR only),3.674,3.975,4.234,4.316,U.S Dollar,US Gallon,2022-03-08
+Arkansas,AR,Hot Springs,3.775,3.945,4.251,4.4,U.S Dollar,US Gallon,2022-03-08
+Arkansas,AR,Jonesboro,3.733,3.896,4.166,4.475,U.S Dollar,US Gallon,2022-03-08
+Arkansas,AR,Little Rock-North Little Rock,3.77,3.979,4.284,4.385,U.S Dollar,US Gallon,2022-03-08
+Arkansas,AR,Pine Bluff,3.854,4.134,4.446,4.573,U.S Dollar,US Gallon,2022-03-08
+Arkansas,AR,Texarkana (AR only),4.011,4.28,4.602,4.622,U.S Dollar,US Gallon,2022-03-08
+Arkansas,AR,West Memphis,3.833,4.109,4.543,4.515,U.S Dollar,US Gallon,2022-03-08
+Arizona,AZ,East Valley,4.328,4.575,4.841,4.729,U.S Dollar,US Gallon,2022-03-08
+Arizona,AZ,Flagstaff,4.349,4.466,4.659,4.744,U.S Dollar,US Gallon,2022-03-08
+Arizona,AZ,Glendale,4.339,4.568,4.85,4.729,U.S Dollar,US Gallon,2022-03-08
+Arizona,AZ,Lake Havasu-Kingman,4.319,4.405,4.677,4.79,U.S Dollar,US Gallon,2022-03-08
+Arizona,AZ,Peoria,4.323,4.601,4.893,4.723,U.S Dollar,US Gallon,2022-03-08
+Arizona,AZ,Phoenix Proper,4.316,4.604,4.869,4.714,U.S Dollar,US Gallon,2022-03-08
+Arizona,AZ,Phoenix-Mesa,4.328,4.581,4.85,4.72,U.S Dollar,US Gallon,2022-03-08
+Arizona,AZ,Pima County,4.267,4.478,4.738,4.671,U.S Dollar,US Gallon,2022-03-08
+Arizona,AZ,Prescott,4.274,4.362,4.527,4.65,U.S Dollar,US Gallon,2022-03-08
+Arizona,AZ,Scottsdale,4.297,4.596,4.873,4.591,U.S Dollar,US Gallon,2022-03-08
+Arizona,AZ,Sierra Vista-Douglas,4.212,4.44,4.643,4.755,U.S Dollar,US Gallon,2022-03-08
+Arizona,AZ,Tucson,4.266,4.474,4.722,4.675,U.S Dollar,US Gallon,2022-03-08
+Arizona,AZ,West Valley,4.333,4.568,4.851,4.714,U.S Dollar,US Gallon,2022-03-08
+Arizona,AZ,Yuma,4.071,4.274,4.466,4.619,U.S Dollar,US Gallon,2022-03-08
+California,CA,Bakersfield,5.298,5.445,5.62,5.777,U.S Dollar,US Gallon,2022-03-08
+California,CA,Chico-Paradise,5.245,5.426,5.517,5.768,U.S Dollar,US Gallon,2022-03-08
+California,CA,El Centro,5.43,5.552,5.768,5.935,U.S Dollar,US Gallon,2022-03-08
+California,CA,Fresno,5.287,5.426,5.597,5.763,U.S Dollar,US Gallon,2022-03-08
+California,CA,Hanford-Corcoran,5.188,5.311,5.488,5.66,U.S Dollar,US Gallon,2022-03-08
+California,CA,Los Angeles-Long Beach,5.518,5.676,5.795,5.845,U.S Dollar,US Gallon,2022-03-08
+California,CA,Madera-Chowchilla,5.298,5.376,5.572,5.679,U.S Dollar,US Gallon,2022-03-08
+California,CA,Merced,5.28,5.427,5.583,5.747,U.S Dollar,US Gallon,2022-03-08
+California,CA,Modesto,5.238,5.364,5.547,5.67,U.S Dollar,US Gallon,2022-03-08
+California,CA,Napa,5.566,5.657,5.807,5.933,U.S Dollar,US Gallon,2022-03-08
+California,CA,Oakland,5.502,5.62,5.777,5.868,U.S Dollar,US Gallon,2022-03-08
+California,CA,Orange County,5.514,5.676,5.796,5.824,U.S Dollar,US Gallon,2022-03-08
+California,CA,Redding,5.331,5.455,5.6,5.795,U.S Dollar,US Gallon,2022-03-08
+California,CA,Riverside,5.405,5.564,5.692,5.79,U.S Dollar,US Gallon,2022-03-08
+California,CA,Sacramento,5.392,5.524,5.675,5.848,U.S Dollar,US Gallon,2022-03-08
+California,CA,Salinas,5.416,5.547,5.691,5.889,U.S Dollar,US Gallon,2022-03-08
+California,CA,San Bernardino,5.435,5.577,5.71,5.848,U.S Dollar,US Gallon,2022-03-08
+California,CA,San Diego,5.483,5.619,5.752,5.788,U.S Dollar,US Gallon,2022-03-08
+California,CA,San Francisco,5.567,5.702,5.836,5.871,U.S Dollar,US Gallon,2022-03-08
+California,CA,San Jose,5.473,5.612,5.745,5.844,U.S Dollar,US Gallon,2022-03-08
+California,CA,San Luis Obispo-Atascadero-Paso Robles,5.602,5.764,5.877,6.096,U.S Dollar,US Gallon,2022-03-08
+California,CA,San Rafael,5.628,5.788,5.912,6.114,U.S Dollar,US Gallon,2022-03-08
+California,CA,Santa Barbara-Santa Maria-Lompoc,5.404,5.495,5.642,5.799,U.S Dollar,US Gallon,2022-03-08
+California,CA,Santa Cruz-Watsonville,5.378,5.537,5.678,5.805,U.S Dollar,US Gallon,2022-03-08
+California,CA,Santa Rosa,5.57,5.696,5.828,5.979,U.S Dollar,US Gallon,2022-03-08
+California,CA,Stockton-Lodi,5.351,5.5,5.644,5.848,U.S Dollar,US Gallon,2022-03-08
+California,CA,Vallejo-Fairfield,5.487,5.646,5.788,5.938,U.S Dollar,US Gallon,2022-03-08
+California,CA,Ventura,5.455,5.599,5.733,5.824,U.S Dollar,US Gallon,2022-03-08
+California,CA,Visalia-Tulare-Porterville,5.303,5.403,5.563,5.789,U.S Dollar,US Gallon,2022-03-08
+California,CA,Yolo,5.31,5.452,5.621,5.86,U.S Dollar,US Gallon,2022-03-08
+California,CA,Yuba City,5.198,5.414,5.577,5.779,U.S Dollar,US Gallon,2022-03-08
+Colorado,CO,Boulder-Longmont,3.852,4.142,4.428,4.252,U.S Dollar,US Gallon,2022-03-08
+Colorado,CO,Colorado Springs,3.817,4.129,4.42,4.255,U.S Dollar,US Gallon,2022-03-08
+Colorado,CO,Denver,3.807,4.152,4.439,4.238,U.S Dollar,US Gallon,2022-03-08
+Colorado,CO,Durango,4.182,4.332,4.569,4.521,U.S Dollar,US Gallon,2022-03-08
+Colorado,CO,Fort Collins-Loveland,3.805,4.098,4.408,4.246,U.S Dollar,US Gallon,2022-03-08
+Colorado,CO,Glenwood Springs,3.975,4.239,4.475,4.277,U.S Dollar,US Gallon,2022-03-08
+Colorado,CO,Grand Junction (CO only),3.826,4.092,4.316,4.351,U.S Dollar,US Gallon,2022-03-08
+Colorado,CO,Greeley,3.758,4.041,4.308,4.245,U.S Dollar,US Gallon,2022-03-08
+Colorado,CO,Pueblo,3.849,4.177,4.5,4.261,U.S Dollar,US Gallon,2022-03-08
+Colorado,CO,Vail,4.08,4.367,4.661,4.425,U.S Dollar,US Gallon,2022-03-08
+Connecticut,CT,Bridgeport,4.381,4.592,4.825,4.983,U.S Dollar,US Gallon,2022-03-08
+Connecticut,CT,Hartford,4.358,4.589,4.832,4.952,U.S Dollar,US Gallon,2022-03-08
+Connecticut,CT,Lower Fairfield County,4.397,4.603,4.845,4.976,U.S Dollar,US Gallon,2022-03-08
+Connecticut,CT,New Haven-Meriden,4.335,4.517,4.724,4.877,U.S Dollar,US Gallon,2022-03-08
+Connecticut,CT,New London-Norwich (CT only),4.326,4.558,4.805,4.952,U.S Dollar,US Gallon,2022-03-08
+Connecticut,CT,Windham,4.381,4.563,4.823,4.979,U.S Dollar,US Gallon,2022-03-08
+District of Columbia,DC,Washington (DC only),4.346,4.681,4.878,4.717,U.S Dollar,US Gallon,2022-03-08
+District of Columbia,DC,Washington (Entire Metro Average),4.215,4.557,4.842,4.824,U.S Dollar,US Gallon,2022-03-08
+Delaware,DE,Dover,4.221,4.466,4.692,4.73,U.S Dollar,US Gallon,2022-03-08
+Delaware,DE,Milford-Seaford,4.222,4.445,4.714,4.756,U.S Dollar,US Gallon,2022-03-08
+Delaware,DE,Wilmington-Newark (DE only),4.219,4.549,4.756,4.772,U.S Dollar,US Gallon,2022-03-08
+Florida,FL,Bradenton-Sarasota-Venice,4.168,4.439,4.732,4.776,U.S Dollar,US Gallon,2022-03-08
+Florida,FL,Crestview-Fort Walton Beach,4.11,4.354,4.679,4.755,U.S Dollar,US Gallon,2022-03-08
+Florida,FL,Daytona Beach,4.14,4.444,4.768,4.807,U.S Dollar,US Gallon,2022-03-08
+Florida,FL,Fort Lauderdale,4.185,4.438,4.746,4.774,U.S Dollar,US Gallon,2022-03-08
+Florida,FL,Fort Myers-Cape Coral,4.145,4.446,4.722,4.815,U.S Dollar,US Gallon,2022-03-08
+Florida,FL,Gainesville,4.168,4.403,4.773,4.862,U.S Dollar,US Gallon,2022-03-08
+Florida,FL,Homosassa Springs,4.145,4.373,4.713,4.776,U.S Dollar,US Gallon,2022-03-08
+Florida,FL,Jacksonville,4.134,4.385,4.745,4.798,U.S Dollar,US Gallon,2022-03-08
+Florida,FL,Lakeland-Winter Haven,4.1,4.425,4.748,4.781,U.S Dollar,US Gallon,2022-03-08
+Florida,FL,Melbourne-Titusville,4.145,4.406,4.729,4.774,U.S Dollar,US Gallon,2022-03-08
+Florida,FL,Miami,4.157,4.371,4.64,4.731,U.S Dollar,US Gallon,2022-03-08
+Florida,FL,Naples,4.19,4.495,4.794,4.884,U.S Dollar,US Gallon,2022-03-08
+Florida,FL,Ocala,4.142,4.449,4.814,4.848,U.S Dollar,US Gallon,2022-03-08
+Florida,FL,Orlando,4.157,4.468,4.761,4.807,U.S Dollar,US Gallon,2022-03-08
+Florida,FL,Panama City,4.097,4.309,4.694,4.702,U.S Dollar,US Gallon,2022-03-08
+Florida,FL,Pensacola,4.088,4.39,4.679,4.695,U.S Dollar,US Gallon,2022-03-08
+Florida,FL,Port St. Lucie,4.158,4.432,4.762,4.807,U.S Dollar,US Gallon,2022-03-08
+Florida,FL,Punta Gorda,4.142,4.399,4.678,4.793,U.S Dollar,US Gallon,2022-03-08
+Florida,FL,Sebastian-Vero Beach,4.165,4.408,4.682,4.802,U.S Dollar,US Gallon,2022-03-08
+Florida,FL,Sebring,4.128,4.458,4.715,4.722,U.S Dollar,US Gallon,2022-03-08
+Florida,FL,Tallahassee,4.093,4.348,4.703,4.737,U.S Dollar,US Gallon,2022-03-08
+Florida,FL,Tampa-St. Petersburg-Clearwater,4.134,4.434,4.761,4.774,U.S Dollar,US Gallon,2022-03-08
+Florida,FL,The Villages,4.154,4.483,4.88,4.936,U.S Dollar,US Gallon,2022-03-08
+Florida,FL,West Palm Beach-Boca Raton,4.246,4.593,4.908,4.787,U.S Dollar,US Gallon,2022-03-08
+Georgia,GA,Albany,4.072,4.319,4.654,4.829,U.S Dollar,US Gallon,2022-03-08
+Georgia,GA,Athens,4.02,4.302,4.625,4.733,U.S Dollar,US Gallon,2022-03-08
+Georgia,GA,Atlanta,4.067,4.337,4.695,4.702,U.S Dollar,US Gallon,2022-03-08
+Georgia,GA,Augusta-Aiken (GA only),4.031,4.347,4.61,4.708,U.S Dollar,US Gallon,2022-03-08
+Georgia,GA,Brunswick,4.11,4.396,4.663,4.873,U.S Dollar,US Gallon,2022-03-08
+Georgia,GA,Catoosa-Dade-Walker,3.99,4.327,4.66,4.878,U.S Dollar,US Gallon,2022-03-08
+Georgia,GA,Columbus (GA only),4.023,4.24,4.605,4.593,U.S Dollar,US Gallon,2022-03-08
+Georgia,GA,Dalton,4.008,4.344,4.662,4.816,U.S Dollar,US Gallon,2022-03-08
+Georgia,GA,Gainesville,4.01,4.284,4.585,4.636,U.S Dollar,US Gallon,2022-03-08
+Georgia,GA,Hinesville-Fort Stewart,4.094,4.45,4.705,4.78,U.S Dollar,US Gallon,2022-03-08
+Georgia,GA,Macon,4.078,4.409,4.745,4.803,U.S Dollar,US Gallon,2022-03-08
+Georgia,GA,Rome,3.962,4.226,4.585,4.731,U.S Dollar,US Gallon,2022-03-08
+Georgia,GA,Savannah,4.127,4.402,4.726,4.81,U.S Dollar,US Gallon,2022-03-08
+Georgia,GA,Valdosta,4.054,4.465,4.658,4.848,U.S Dollar,US Gallon,2022-03-08
+Georgia,GA,Warner Robins,4.054,4.262,4.611,4.737,U.S Dollar,US Gallon,2022-03-08
+Hawaii,HI,Hilo,4.751,4.941,5.241,5.122,U.S Dollar,US Gallon,2022-03-08
+Hawaii,HI,Honolulu,4.616,4.839,5.133,4.872,U.S Dollar,US Gallon,2022-03-08
+Hawaii,HI,Kahului,4.875,5.115,5.295,5.12,U.S Dollar,US Gallon,2022-03-08
+Hawaii,HI,Lihue (Kauai),4.94,5.129,5.331,5.292,U.S Dollar,US Gallon,2022-03-08
+Hawaii,HI,Wailuku,4.875,5.115,5.295,5.12,U.S Dollar,US Gallon,2022-03-08
+Iowa,IA,Ames,3.781,3.929,4.27,4.395,U.S Dollar,US Gallon,2022-03-08
+Iowa,IA,Cedar Rapids,3.844,3.966,4.572,4.479,U.S Dollar,US Gallon,2022-03-08
+Iowa,IA,Council Bluffs,3.745,3.97,4.285,4.397,U.S Dollar,US Gallon,2022-03-08
+Iowa,IA,Davenport-Moline-Rock Island (IA only),3.891,4.011,4.455,4.583,U.S Dollar,US Gallon,2022-03-08
+Iowa,IA,Des Moines,3.822,3.708,4.323,4.468,U.S Dollar,US Gallon,2022-03-08
+Iowa,IA,Dubuque,3.971,4.119,4.43,4.408,U.S Dollar,US Gallon,2022-03-08
+Iowa,IA,Iowa City,3.799,3.912,4.401,4.303,U.S Dollar,US Gallon,2022-03-08
+Iowa,IA,Sioux City (IA only),3.746,3.816,4.226,4.292,U.S Dollar,US Gallon,2022-03-08
+Iowa,IA,Waterloo-Cedar Falls,3.886,3.938,4.484,4.656,U.S Dollar,US Gallon,2022-03-08
+Idaho,ID,Boise City,4.19,4.351,4.501,4.726,U.S Dollar,US Gallon,2022-03-08
+Idaho,ID,Coeur D'Alene,3.927,4.076,4.32,4.416,U.S Dollar,US Gallon,2022-03-08
+Idaho,ID,Franklin,3.999,4.126,4.334,4.606,U.S Dollar,US Gallon,2022-03-08
+Idaho,ID,Idaho Falls,3.9,4.086,4.291,4.519,U.S Dollar,US Gallon,2022-03-08
+Idaho,ID,Lewiston,3.919,4.131,4.318,4.345,U.S Dollar,US Gallon,2022-03-08
+Idaho,ID,Pocatello,3.965,4.106,4.292,4.558,U.S Dollar,US Gallon,2022-03-08
+Idaho,ID,Twin Falls,4.171,4.276,4.422,4.644,U.S Dollar,US Gallon,2022-03-08
+Illinois,IL,Alexander County,3.859,0,0,0,U.S Dollar,US Gallon,2022-03-08
+Illinois,IL,Bloomington-Normal,4.366,4.614,4.935,4.627,U.S Dollar,US Gallon,2022-03-08
+Illinois,IL,Carbondale-Marion,4.409,4.713,5.01,4.801,U.S Dollar,US Gallon,2022-03-08
+Illinois,IL,Champaign-Urbana,4.353,4.707,5.011,4.601,U.S Dollar,US Gallon,2022-03-08
+Illinois,IL,Chicago Metro,4.566,4.846,5.262,4.618,U.S Dollar,US Gallon,2022-03-08
+Illinois,IL,City of Chicago,4.705,5.01,5.436,4.566,U.S Dollar,US Gallon,2022-03-08
+Illinois,IL,Danville,4.292,4.667,5.041,4.611,U.S Dollar,US Gallon,2022-03-08
+Illinois,IL,Davenport-Moline-Rock Island (IL only),4.297,4.683,5.045,4.651,U.S Dollar,US Gallon,2022-03-08
+Illinois,IL,Decatur,4.334,4.652,4.995,4.499,U.S Dollar,US Gallon,2022-03-08
+Illinois,IL,East Saint Louis,4.289,4.551,4.857,4.564,U.S Dollar,US Gallon,2022-03-08
+Illinois,IL,Elgin,4.429,4.718,5.125,4.595,U.S Dollar,US Gallon,2022-03-08
+Illinois,IL,Kankakee-Bradley,4.507,4.766,5.139,4.748,U.S Dollar,US Gallon,2022-03-08
+Illinois,IL,Lake County,4.396,4.677,5.085,4.541,U.S Dollar,US Gallon,2022-03-08
+Illinois,IL,Peoria-Pekin,4.393,4.649,4.984,4.566,U.S Dollar,US Gallon,2022-03-08
+Illinois,IL,Quincy,4.306,4.564,4.9,4.666,U.S Dollar,US Gallon,2022-03-08
+Illinois,IL,Rockford,4.283,4.513,4.902,4.558,U.S Dollar,US Gallon,2022-03-08
+Illinois,IL,Springfield,4.359,4.574,4.957,4.655,U.S Dollar,US Gallon,2022-03-08
+Indiana,IN,Bloomington,4.17,4.457,4.802,4.782,U.S Dollar,US Gallon,2022-03-08
+Indiana,IN,Clarksville,4.166,4.402,4.721,4.836,U.S Dollar,US Gallon,2022-03-08
+Indiana,IN,Columbus,4.107,4.384,4.709,4.724,U.S Dollar,US Gallon,2022-03-08
+Indiana,IN,Dearborn-Franklin-Ohio-Union,4.022,4.257,4.571,4.622,U.S Dollar,US Gallon,2022-03-08
+Indiana,IN,Elkhart,4.14,4.297,4.64,4.73,U.S Dollar,US Gallon,2022-03-08
+Indiana,IN,Evansville,3.967,4.176,4.447,4.72,U.S Dollar,US Gallon,2022-03-08
+Indiana,IN,Fort Wayne,4.162,4.349,4.669,4.731,U.S Dollar,US Gallon,2022-03-08
+Indiana,IN,Gary,4.207,4.416,4.705,4.804,U.S Dollar,US Gallon,2022-03-08
+Indiana,IN,Indianapolis,4.157,4.389,4.716,4.749,U.S Dollar,US Gallon,2022-03-08
+Indiana,IN,Kokomo,4.11,4.37,4.671,4.741,U.S Dollar,US Gallon,2022-03-08
+Indiana,IN,Lafayette,4.221,4.434,4.757,4.842,U.S Dollar,US Gallon,2022-03-08
+Indiana,IN,Michigan City-La Porte,4.224,4.453,4.79,4.857,U.S Dollar,US Gallon,2022-03-08
+Indiana,IN,Muncie,4.182,4.425,4.702,4.837,U.S Dollar,US Gallon,2022-03-08
+Indiana,IN,South Bend,4.233,4.496,4.803,4.759,U.S Dollar,US Gallon,2022-03-08
+Indiana,IN,Terre Haute,4.098,4.322,4.64,4.723,U.S Dollar,US Gallon,2022-03-08
+Kansas,KS,Kansas City (KS only),3.752,3.993,4.259,4.385,U.S Dollar,US Gallon,2022-03-08
+Kansas,KS,Lawrence,3.816,4.022,4.258,4.399,U.S Dollar,US Gallon,2022-03-08
+Kansas,KS,Manhattan,3.709,3.902,4.124,4.191,U.S Dollar,US Gallon,2022-03-08
+Kansas,KS,Topeka,3.8,4.024,4.262,4.263,U.S Dollar,US Gallon,2022-03-08
+Kansas,KS,Wichita,3.788,4.039,4.266,4.229,U.S Dollar,US Gallon,2022-03-08
+Kentucky,KY,Bowling Green,3.95,4.19,4.485,4.77,U.S Dollar,US Gallon,2022-03-08
+Kentucky,KY,Covington,3.929,4.148,4.467,4.664,U.S Dollar,US Gallon,2022-03-08
+Kentucky,KY,Elizabethtown-Fort Knox,3.889,4.059,4.352,4.633,U.S Dollar,US Gallon,2022-03-08
+Kentucky,KY,Henderson,3.843,3.977,4.195,4.484,U.S Dollar,US Gallon,2022-03-08
+Kentucky,KY,Hopkinsville,3.974,4.289,4.651,4.862,U.S Dollar,US Gallon,2022-03-08
+Kentucky,KY,Huntington-Ashland (KY only),3.912,4.049,4.299,4.627,U.S Dollar,US Gallon,2022-03-08
+Kentucky,KY,Lexington,3.901,4.094,4.4,4.572,U.S Dollar,US Gallon,2022-03-08
+Kentucky,KY,Louisville (KY only),4.155,4.387,4.704,4.675,U.S Dollar,US Gallon,2022-03-08
+Kentucky,KY,Owensboro,3.895,4.167,4.379,4.72,U.S Dollar,US Gallon,2022-03-08
+Louisiana,LA,Alexandria,3.929,4.196,4.507,4.568,U.S Dollar,US Gallon,2022-03-08
+Louisiana,LA,Baton Rouge,3.954,4.248,4.533,4.508,U.S Dollar,US Gallon,2022-03-08
+Louisiana,LA,Hammond,3.995,4.269,4.67,4.665,U.S Dollar,US Gallon,2022-03-08
+Louisiana,LA,Houma-Thibodaux,3.917,4.101,4.411,4.384,U.S Dollar,US Gallon,2022-03-08
+Louisiana,LA,Lafayette,3.97,4.24,4.579,4.571,U.S Dollar,US Gallon,2022-03-08
+Louisiana,LA,Lake Charles,3.97,4.213,4.518,4.621,U.S Dollar,US Gallon,2022-03-08
+Louisiana,LA,Monroe,3.882,4.191,4.479,4.559,U.S Dollar,US Gallon,2022-03-08
+Louisiana,LA,New Orleans,3.959,4.247,4.559,4.529,U.S Dollar,US Gallon,2022-03-08
+Louisiana,LA,Shreveport-Bossier City,3.916,4.198,4.493,4.627,U.S Dollar,US Gallon,2022-03-08
+Massachusetts,MA,Barnstable-Yarmouth,4.294,4.548,4.759,4.907,U.S Dollar,US Gallon,2022-03-08
+Massachusetts,MA,Boston (MA only),4.259,4.485,4.723,4.818,U.S Dollar,US Gallon,2022-03-08
+Massachusetts,MA,Cambridge-Newton-Framingham,4.249,4.475,4.714,4.835,U.S Dollar,US Gallon,2022-03-08
+Massachusetts,MA,Pittsfield,4.21,4.398,4.618,4.835,U.S Dollar,US Gallon,2022-03-08
+Massachusetts,MA,Seakonk,4.198,4.456,4.66,4.835,U.S Dollar,US Gallon,2022-03-08
+Massachusetts,MA,Springfield,4.194,4.347,4.523,4.794,U.S Dollar,US Gallon,2022-03-08
+Massachusetts,MA,Worcester,4.234,4.423,4.662,4.896,U.S Dollar,US Gallon,2022-03-08
+Maryland,MD,Annapolis,4.2,4.582,4.819,4.866,U.S Dollar,US Gallon,2022-03-08
+Maryland,MD,Baltimore,4.202,4.528,4.785,4.855,U.S Dollar,US Gallon,2022-03-08
+Maryland,MD,Bowie-St. Charles,4.195,4.603,4.852,4.83,U.S Dollar,US Gallon,2022-03-08
+Maryland,MD,Cumberland (MD Only),4.089,4.45,4.761,4.928,U.S Dollar,US Gallon,2022-03-08
+Maryland,MD,Frederick,4.162,4.425,4.717,4.868,U.S Dollar,US Gallon,2022-03-08
+Maryland,MD,Hagerstown,4.085,4.384,4.618,4.95,U.S Dollar,US Gallon,2022-03-08
+Maryland,MD,Salisbury,4.139,4.341,4.653,4.747,U.S Dollar,US Gallon,2022-03-08
+Maryland,MD,Washington (MD only),4.226,4.578,4.855,4.859,U.S Dollar,US Gallon,2022-03-08
+Maine,ME,Bangor,4.122,4.392,4.66,4.817,U.S Dollar,US Gallon,2022-03-08
+Maine,ME,Lewiston-Auburn,4.189,4.368,4.625,4.887,U.S Dollar,US Gallon,2022-03-08
+Maine,ME,Portland,4.236,4.452,4.701,4.797,U.S Dollar,US Gallon,2022-03-08
+Michigan,MI,Ann Arbor,4.181,4.312,4.702,4.745,U.S Dollar,US Gallon,2022-03-08
+Michigan,MI,Benton Harbor,4.217,4.36,4.708,4.692,U.S Dollar,US Gallon,2022-03-08
+Michigan,MI,Flint,4.177,4.36,4.7,4.718,U.S Dollar,US Gallon,2022-03-08
+Michigan,MI,Grand Rapids-Muskegon-Holland,4.193,4.338,4.668,4.756,U.S Dollar,US Gallon,2022-03-08
+Michigan,MI,Jackson,4.195,4.433,4.757,4.792,U.S Dollar,US Gallon,2022-03-08
+Michigan,MI,Lansing-East Lansing,4.18,4.362,4.689,4.777,U.S Dollar,US Gallon,2022-03-08
+Michigan,MI,Marquette,4.264,4.549,4.866,4.849,U.S Dollar,US Gallon,2022-03-08
+Michigan,MI,Metro Detroit,4.18,4.369,4.721,4.659,U.S Dollar,US Gallon,2022-03-08
+Michigan,MI,Saginaw-Bay City-Midland,4.223,4.425,4.729,4.85,U.S Dollar,US Gallon,2022-03-08
+Michigan,MI,Traverse City,4.164,4.27,4.647,4.812,U.S Dollar,US Gallon,2022-03-08
+Minnesota,MN,Duluth-Superior (MN only),3.883,4.064,4.433,4.405,U.S Dollar,US Gallon,2022-03-08
+Minnesota,MN,Houston County,3.935,0,4.691,4.606,U.S Dollar,US Gallon,2022-03-08
+Minnesota,MN,Mankato,3.877,3.962,4.458,4.518,U.S Dollar,US Gallon,2022-03-08
+Minnesota,MN,Minneapolis-St. Paul (MN only),3.898,4.054,4.369,4.49,U.S Dollar,US Gallon,2022-03-08
+Minnesota,MN,Moorhead,3.79,3.954,4.329,4.426,U.S Dollar,US Gallon,2022-03-08
+Minnesota,MN,Polk County,3.762,3.823,4.022,4.255,U.S Dollar,US Gallon,2022-03-08
+Minnesota,MN,Rochester,3.922,4.076,4.556,4.629,U.S Dollar,US Gallon,2022-03-08
+Minnesota,MN,St. Cloud,3.776,3.881,4.232,4.59,U.S Dollar,US Gallon,2022-03-08
+Missouri,MO,Cape Girardeau,3.801,3.969,4.215,4.478,U.S Dollar,US Gallon,2022-03-08
+Missouri,MO,Columbia,3.758,3.85,4.141,4.32,U.S Dollar,US Gallon,2022-03-08
+Missouri,MO,Jefferson City,3.757,3.929,4.222,4.293,U.S Dollar,US Gallon,2022-03-08
+Missouri,MO,Joplin,3.636,3.928,4.178,4.298,U.S Dollar,US Gallon,2022-03-08
+Missouri,MO,Kansas City (MO only),3.743,3.974,4.243,4.279,U.S Dollar,US Gallon,2022-03-08
+Missouri,MO,Springfield,3.7,3.875,4.204,4.28,U.S Dollar,US Gallon,2022-03-08
+Missouri,MO,St. Joseph,3.677,3.906,4.224,4.293,U.S Dollar,US Gallon,2022-03-08
+Missouri,MO,St. Louis (MO only),3.823,3.976,4.236,4.305,U.S Dollar,US Gallon,2022-03-08
+Mississippi,MS,Biloxi-Gulfport-Pascagoula,3.818,4.069,4.367,4.45,U.S Dollar,US Gallon,2022-03-08
+Mississippi,MS,Hattiesburg,3.905,4.083,4.412,4.434,U.S Dollar,US Gallon,2022-03-08
+Mississippi,MS,Jackson,3.847,4.083,4.421,4.511,U.S Dollar,US Gallon,2022-03-08
+Mississippi,MS,South Haven - Olive Branch,3.84,4.167,4.41,4.617,U.S Dollar,US Gallon,2022-03-08
+Montana,MT,Billings,3.851,4.047,4.362,4.258,U.S Dollar,US Gallon,2022-03-08
+Montana,MT,Great Falls,3.86,4.074,4.298,4.259,U.S Dollar,US Gallon,2022-03-08
+Montana,MT,Missoula,3.864,4.1,4.353,4.302,U.S Dollar,US Gallon,2022-03-08
+North Carolina,NC,Asheville,4.077,4.247,4.548,4.712,U.S Dollar,US Gallon,2022-03-08
+North Carolina,NC,Burlington,3.992,4.243,4.632,4.907,U.S Dollar,US Gallon,2022-03-08
+North Carolina,NC,Charlotte-Gastonia-Rock Hill (NC only),4.031,4.353,4.679,4.804,U.S Dollar,US Gallon,2022-03-08
+North Carolina,NC,Durham-Chapel Hill,4.005,4.298,4.644,4.891,U.S Dollar,US Gallon,2022-03-08
+North Carolina,NC,Fayetteville,3.983,4.302,4.605,4.891,U.S Dollar,US Gallon,2022-03-08
+North Carolina,NC,Goldsboro,4.043,4.317,4.615,4.98,U.S Dollar,US Gallon,2022-03-08
+North Carolina,NC,Greensboro,3.985,4.277,4.611,4.86,U.S Dollar,US Gallon,2022-03-08
+North Carolina,NC,Hickory-Lenoir-Morganton,3.997,4.221,4.557,4.798,U.S Dollar,US Gallon,2022-03-08
+North Carolina,NC,Jacksonville,4.038,4.284,4.596,4.874,U.S Dollar,US Gallon,2022-03-08
+North Carolina,NC,New Bern,4.03,4.251,4.566,4.833,U.S Dollar,US Gallon,2022-03-08
+North Carolina,NC,Norfolk-Virginia Beach-Newport News,4.142,4.469,4.684,4.855,U.S Dollar,US Gallon,2022-03-08
+North Carolina,NC,Raleigh,4.018,4.303,4.639,4.867,U.S Dollar,US Gallon,2022-03-08
+North Carolina,NC,Rocky Mount,4.05,4.321,4.644,4.84,U.S Dollar,US Gallon,2022-03-08
+North Carolina,NC,Wilmington,4.041,4.322,4.673,4.826,U.S Dollar,US Gallon,2022-03-08
+North Carolina,NC,Winston-Salem,4.018,4.263,4.627,4.872,U.S Dollar,US Gallon,2022-03-08
+North Dakota,ND,Bismarck,3.87,4.008,4.193,4.33,U.S Dollar,US Gallon,2022-03-08
+North Dakota,ND,Fargo-Moorhead (ND only),3.783,3.959,4.261,4.271,U.S Dollar,US Gallon,2022-03-08
+North Dakota,ND,Grand Forks (ND only),3.748,3.9,4.176,4.491,U.S Dollar,US Gallon,2022-03-08
+North Dakota,ND,Minot,3.83,4.007,4.256,4.183,U.S Dollar,US Gallon,2022-03-08
+Nebraska,NE,Columbus,3.674,3.825,4.116,4.273,U.S Dollar,US Gallon,2022-03-08
+Nebraska,NE,Grand Island,3.844,3.953,4.265,4.422,U.S Dollar,US Gallon,2022-03-08
+Nebraska,NE,Kearney,3.821,3.772,4.162,4.226,U.S Dollar,US Gallon,2022-03-08
+Nebraska,NE,Lincoln,3.889,3.95,4.452,4.383,U.S Dollar,US Gallon,2022-03-08
+Nebraska,NE,Norfolk,3.682,3.928,4.409,4.346,U.S Dollar,US Gallon,2022-03-08
+Nebraska,NE,North Platte,3.874,3.881,4.108,4.352,U.S Dollar,US Gallon,2022-03-08
+Nebraska,NE,Omaha (NE only),3.774,3.884,4.284,4.336,U.S Dollar,US Gallon,2022-03-08
+New Hampshire,NH,Manchester,4.202,4.438,4.731,4.803,U.S Dollar,US Gallon,2022-03-08
+New Hampshire,NH,Portsmouth-Rochester (NH only),4.167,4.392,4.675,4.817,U.S Dollar,US Gallon,2022-03-08
+New Jersey,NJ,Atlantic City,4.264,4.493,4.671,4.769,U.S Dollar,US Gallon,2022-03-08
+New Jersey,NJ,Bergen-Passaic,4.257,4.536,4.744,5.012,U.S Dollar,US Gallon,2022-03-08
+New Jersey,NJ,Cape May,4.316,4.599,4.746,4.768,U.S Dollar,US Gallon,2022-03-08
+New Jersey,NJ,Middlesex-Somerset-Hunterdon,4.286,4.531,4.76,4.969,U.S Dollar,US Gallon,2022-03-08
+New Jersey,NJ,Monmouth-Ocean,4.291,4.581,4.735,4.871,U.S Dollar,US Gallon,2022-03-08
+New Jersey,NJ,Newark,4.294,4.522,4.707,4.902,U.S Dollar,US Gallon,2022-03-08
+New Jersey,NJ,Parsippany-Troy Hills,4.288,4.523,4.73,5,U.S Dollar,US Gallon,2022-03-08
+New Jersey,NJ,Philadelphia (NJ Only),4.237,4.449,4.63,4.791,U.S Dollar,US Gallon,2022-03-08
+New Jersey,NJ,Trenton,4.293,4.554,4.746,4.964,U.S Dollar,US Gallon,2022-03-08
+New Jersey,NJ,Vineland,4.228,4.536,4.662,4.803,U.S Dollar,US Gallon,2022-03-08
+New Jersey,NJ,Warren County,4.227,4.437,4.7,5.017,U.S Dollar,US Gallon,2022-03-08
+New Mexico,NM,Albuquerque,4.026,4.316,4.605,4.503,U.S Dollar,US Gallon,2022-03-08
+New Mexico,NM,Farmington,4.159,4.298,4.55,4.751,U.S Dollar,US Gallon,2022-03-08
+New Mexico,NM,Las Cruces,4.053,4.405,4.677,4.543,U.S Dollar,US Gallon,2022-03-08
+New Mexico,NM,Santa Fe,4.025,4.152,4.445,4.552,U.S Dollar,US Gallon,2022-03-08
+Nevada,NV,Las Vegas (NV only),4.689,4.872,5.068,4.918,U.S Dollar,US Gallon,2022-03-08
+Nevada,NV,Reno,4.87,5.044,5.206,4.892,U.S Dollar,US Gallon,2022-03-08
+New York,NY,Albany-Schenectady-Troy,4.406,4.59,4.874,4.946,U.S Dollar,US Gallon,2022-03-08
+New York,NY,Batavia,4.292,4.524,4.725,4.992,U.S Dollar,US Gallon,2022-03-08
+New York,NY,Binghamton,4.37,4.576,4.803,5.083,U.S Dollar,US Gallon,2022-03-08
+New York,NY,Buffalo-Niagara Falls,4.303,4.411,4.624,4.866,U.S Dollar,US Gallon,2022-03-08
+New York,NY,Dutchess-Putnam County,4.468,4.707,4.945,5.097,U.S Dollar,US Gallon,2022-03-08
+New York,NY,Elmira,4.298,4.484,4.757,4.943,U.S Dollar,US Gallon,2022-03-08
+New York,NY,Glens Falls,4.456,4.609,4.901,4.961,U.S Dollar,US Gallon,2022-03-08
+New York,NY,Ithaca,4.354,4.598,4.798,5.052,U.S Dollar,US Gallon,2022-03-08
+New York,NY,Kingston,4.339,4.526,4.827,4.955,U.S Dollar,US Gallon,2022-03-08
+New York,NY,Nassau-Suffolk,4.353,4.571,4.786,4.991,U.S Dollar,US Gallon,2022-03-08
+New York,NY,New York,4.395,4.633,4.859,5.159,U.S Dollar,US Gallon,2022-03-08
+New York,NY,Rochester,4.326,4.529,4.74,4.881,U.S Dollar,US Gallon,2022-03-08
+New York,NY,Syracuse,4.338,4.59,4.779,4.957,U.S Dollar,US Gallon,2022-03-08
+New York,NY,Utica-Rome,4.346,4.641,4.892,4.979,U.S Dollar,US Gallon,2022-03-08
+New York,NY,Watertown-Fort Drum,4.351,4.562,4.819,4.913,U.S Dollar,US Gallon,2022-03-08
+New York,NY,White Plains,4.441,4.7,4.931,5.03,U.S Dollar,US Gallon,2022-03-08
+Ohio,OH,Akron,4.003,4.313,4.654,4.833,U.S Dollar,US Gallon,2022-03-08
+Ohio,OH,Belmont County,3.99,4.225,4.47,4.817,U.S Dollar,US Gallon,2022-03-08
+Ohio,OH,Canton-Massillon,3.991,4.288,4.631,4.883,U.S Dollar,US Gallon,2022-03-08
+Ohio,OH,Cincinnati (OH only),4.014,4.23,4.575,4.774,U.S Dollar,US Gallon,2022-03-08
+Ohio,OH,Cleveland-Lorain-Elyria,3.993,4.24,4.572,4.724,U.S Dollar,US Gallon,2022-03-08
+Ohio,OH,Columbus,3.994,4.216,4.553,4.756,U.S Dollar,US Gallon,2022-03-08
+Ohio,OH,Dayton,3.969,4.182,4.517,4.728,U.S Dollar,US Gallon,2022-03-08
+Ohio,OH,Lawerence County,3.93,4.055,4.293,4.706,U.S Dollar,US Gallon,2022-03-08
+Ohio,OH,Lima,3.968,4.19,4.517,4.774,U.S Dollar,US Gallon,2022-03-08
+Ohio,OH,Mansfield,3.98,4.3,4.608,4.809,U.S Dollar,US Gallon,2022-03-08
+Ohio,OH,Springfield,3.943,4.162,4.447,4.797,U.S Dollar,US Gallon,2022-03-08
+Ohio,OH,Steubenville-Weirton (OH only),3.925,4.204,4.47,4.732,U.S Dollar,US Gallon,2022-03-08
+Ohio,OH,Toledo,3.964,4.192,4.54,4.753,U.S Dollar,US Gallon,2022-03-08
+Ohio,OH,Youngstown-Warren,3.964,4.22,4.556,4.742,U.S Dollar,US Gallon,2022-03-08
+Oklahoma,OK,Lawton,3.641,3.792,4.035,4.243,U.S Dollar,US Gallon,2022-03-08
+Oklahoma,OK,Le Flore-Sequoyah,3.677,3.924,4.169,4.254,U.S Dollar,US Gallon,2022-03-08
+Oklahoma,OK,Oklahoma City,3.749,4.048,4.215,4.27,U.S Dollar,US Gallon,2022-03-08
+Oklahoma,OK,Tulsa,3.665,3.849,4.078,4.282,U.S Dollar,US Gallon,2022-03-08
+Oregon,OR,Albany,4.488,4.554,4.774,4.819,U.S Dollar,US Gallon,2022-03-08
+Oregon,OR,Bend,4.642,4.76,5.013,4.981,U.S Dollar,US Gallon,2022-03-08
+Oregon,OR,Corvallis,4.414,4.529,4.751,4.618,U.S Dollar,US Gallon,2022-03-08
+Oregon,OR,Eugene-Springfield,4.605,4.705,4.854,4.99,U.S Dollar,US Gallon,2022-03-08
+Oregon,OR,Grants Pass,4.913,4.967,5.24,5.219,U.S Dollar,US Gallon,2022-03-08
+Oregon,OR,Medford-Ashland,4.77,4.864,5.105,5.186,U.S Dollar,US Gallon,2022-03-08
+Oregon,OR,Pendleton,4.328,4.482,4.767,4.785,U.S Dollar,US Gallon,2022-03-08
+Oregon,OR,Portland-Vancouver (OR only),4.622,4.74,4.928,4.869,U.S Dollar,US Gallon,2022-03-08
+Oregon,OR,Salem,4.469,4.575,4.832,4.758,U.S Dollar,US Gallon,2022-03-08
+Pennsylvania,PA,Allentown-Bethlehem-Easton,4.377,4.646,4.942,5.083,U.S Dollar,US Gallon,2022-03-08
+Pennsylvania,PA,Altoona,4.22,4.584,4.834,5.226,U.S Dollar,US Gallon,2022-03-08
+Pennsylvania,PA,Bloomsburg-Berwick,4.308,4.522,4.829,5.107,U.S Dollar,US Gallon,2022-03-08
+Pennsylvania,PA,Chambersburg-Waynesboro,4.276,4.556,4.873,5.223,U.S Dollar,US Gallon,2022-03-08
+Pennsylvania,PA,East Stroudsburg,4.372,4.595,4.924,5.232,U.S Dollar,US Gallon,2022-03-08
+Pennsylvania,PA,Erie,4.163,4.331,4.677,5.143,U.S Dollar,US Gallon,2022-03-08
+Pennsylvania,PA,Gettysburg,4.253,4.556,4.885,5.165,U.S Dollar,US Gallon,2022-03-08
+Pennsylvania,PA,Harrisburg,4.303,4.605,4.931,5.225,U.S Dollar,US Gallon,2022-03-08
+Pennsylvania,PA,Johnstown,4.196,4.516,4.807,5.148,U.S Dollar,US Gallon,2022-03-08
+Pennsylvania,PA,Lancaster,4.365,4.643,4.958,5.127,U.S Dollar,US Gallon,2022-03-08
+Pennsylvania,PA,Lebanon,4.308,4.617,4.928,5.186,U.S Dollar,US Gallon,2022-03-08
+Pennsylvania,PA,Mercer County,4.203,4.504,4.769,5.186,U.S Dollar,US Gallon,2022-03-08
+Pennsylvania,PA,Philadelphia (PA only),4.402,4.678,4.891,5.065,U.S Dollar,US Gallon,2022-03-08
+Pennsylvania,PA,Pittsburgh,4.263,4.528,4.809,5.115,U.S Dollar,US Gallon,2022-03-08
+Pennsylvania,PA,Reading,4.372,4.664,4.907,5.075,U.S Dollar,US Gallon,2022-03-08
+Pennsylvania,PA,Scranton--Wilkes-Barre--Hazleton,4.334,4.55,4.875,5.183,U.S Dollar,US Gallon,2022-03-08
+Pennsylvania,PA,State College,4.238,4.475,4.79,5.235,U.S Dollar,US Gallon,2022-03-08
+Pennsylvania,PA,Williamsport,4.282,4.52,4.858,5.037,U.S Dollar,US Gallon,2022-03-08
+Pennsylvania,PA,York,4.252,4.545,4.855,5.222,U.S Dollar,US Gallon,2022-03-08
+Rhode Island,RI,Providence-Fall River-Warwick (RI only),4.246,4.503,4.746,4.854,U.S Dollar,US Gallon,2022-03-08
+South Carolina,SC,Aiken-Edgfield County,3.98,4.384,4.704,4.808,U.S Dollar,US Gallon,2022-03-08
+South Carolina,SC,Charleston-North Charleston,3.973,4.302,4.636,4.848,U.S Dollar,US Gallon,2022-03-08
+South Carolina,SC,Columbia,3.991,4.32,4.642,4.728,U.S Dollar,US Gallon,2022-03-08
+South Carolina,SC,Florence,3.985,4.346,4.663,4.883,U.S Dollar,US Gallon,2022-03-08
+South Carolina,SC,Greenville,3.925,4.164,4.452,4.606,U.S Dollar,US Gallon,2022-03-08
+South Carolina,SC,Hilton Head-Bluffton,4.085,4.404,4.74,4.877,U.S Dollar,US Gallon,2022-03-08
+South Carolina,SC,Myrtle Beach,3.952,4.241,4.558,4.763,U.S Dollar,US Gallon,2022-03-08
+South Carolina,SC,Rock Hill,3.932,4.186,4.525,4.662,U.S Dollar,US Gallon,2022-03-08
+South Carolina,SC,Spartanburg,3.934,4.224,4.57,4.67,U.S Dollar,US Gallon,2022-03-08
+South Carolina,SC,Sumter,3.945,4.284,4.611,4.742,U.S Dollar,US Gallon,2022-03-08
+South Dakota,SD,North Sioux City,3.823,3.989,4.344,4.377,U.S Dollar,US Gallon,2022-03-08
+South Dakota,SD,Rapid City,3.905,3.973,4.366,4.31,U.S Dollar,US Gallon,2022-03-08
+South Dakota,SD,Sioux Falls,3.776,3.929,4.317,4.304,U.S Dollar,US Gallon,2022-03-08
+Tennessee,TN,Chattanooga (TN only),3.938,4.216,4.518,4.626,U.S Dollar,US Gallon,2022-03-08
+Tennessee,TN,Clarksville-Hopkinsville (TN only),4.001,4.264,4.631,4.854,U.S Dollar,US Gallon,2022-03-08
+Tennessee,TN,Cleveland,3.945,4.172,4.527,4.78,U.S Dollar,US Gallon,2022-03-08
+Tennessee,TN,Jackson,3.96,4.2,4.566,4.822,U.S Dollar,US Gallon,2022-03-08
+Tennessee,TN,Johnson City,3.947,4.206,4.543,4.61,U.S Dollar,US Gallon,2022-03-08
+Tennessee,TN,Kingsport-Bristol,3.909,4.136,4.496,4.667,U.S Dollar,US Gallon,2022-03-08
+Tennessee,TN,Knoxville,3.981,4.205,4.519,4.706,U.S Dollar,US Gallon,2022-03-08
+Tennessee,TN,Memphis (TN only),3.944,4.222,4.527,4.595,U.S Dollar,US Gallon,2022-03-08
+Tennessee,TN,Morristown,4.005,4.171,4.513,4.737,U.S Dollar,US Gallon,2022-03-08
+Tennessee,TN,Nashville,3.984,4.29,4.663,4.825,U.S Dollar,US Gallon,2022-03-08
+Texas,TX,Abilene,3.865,4.044,4.289,4.497,U.S Dollar,US Gallon,2022-03-08
+Texas,TX,Amarillo,3.685,3.879,4.196,4.437,U.S Dollar,US Gallon,2022-03-08
+Texas,TX,Austin-San Marcos,3.828,4.119,4.436,4.548,U.S Dollar,US Gallon,2022-03-08
+Texas,TX,Beaumont-Port Arthur,3.851,4.054,4.367,4.511,U.S Dollar,US Gallon,2022-03-08
+Texas,TX,Brownsville-Harlingen,3.807,3.993,4.247,4.505,U.S Dollar,US Gallon,2022-03-08
+Texas,TX,College Station-Bryan,3.863,4.13,4.432,4.534,U.S Dollar,US Gallon,2022-03-08
+Texas,TX,Corpus Christi,3.79,3.976,4.285,4.412,U.S Dollar,US Gallon,2022-03-08
+Texas,TX,Dallas,3.883,4.106,4.414,4.514,U.S Dollar,US Gallon,2022-03-08
+Texas,TX,El Paso,4.037,4.412,4.674,4.5,U.S Dollar,US Gallon,2022-03-08
+Texas,TX,Fort Worth-Arlington,3.883,4.097,4.394,4.519,U.S Dollar,US Gallon,2022-03-08
+Texas,TX,Galveston-Texas City,3.833,4.077,4.405,4.445,U.S Dollar,US Gallon,2022-03-08
+Texas,TX,Houston,3.86,4.125,4.437,4.474,U.S Dollar,US Gallon,2022-03-08
+Texas,TX,Killeen-Temple-Fort Hood,3.789,4.036,4.308,4.436,U.S Dollar,US Gallon,2022-03-08
+Texas,TX,Laredo,3.847,4.03,4.337,4.549,U.S Dollar,US Gallon,2022-03-08
+Texas,TX,Longview,3.905,4.203,4.479,4.608,U.S Dollar,US Gallon,2022-03-08
+Texas,TX,Lubbock,3.796,4.021,4.333,4.406,U.S Dollar,US Gallon,2022-03-08
+Texas,TX,McAllen-Edinburg-Mission,3.808,3.988,4.277,4.459,U.S Dollar,US Gallon,2022-03-08
+Texas,TX,Midland,3.923,4.249,4.494,4.776,U.S Dollar,US Gallon,2022-03-08
+Texas,TX,Odessa,3.945,4.242,4.475,4.712,U.S Dollar,US Gallon,2022-03-08
+Texas,TX,San Angelo,3.943,4.204,4.557,4.673,U.S Dollar,US Gallon,2022-03-08
+Texas,TX,San Antonio,3.754,3.999,4.312,4.477,U.S Dollar,US Gallon,2022-03-08
+Texas,TX,Sherman-Denison,3.77,3.967,4.215,4.414,U.S Dollar,US Gallon,2022-03-08
+Texas,TX,Texarkana (TX only),3.907,4.127,4.43,4.489,U.S Dollar,US Gallon,2022-03-08
+Texas,TX,Tyler,3.846,4.101,4.337,4.494,U.S Dollar,US Gallon,2022-03-08
+Texas,TX,Victoria,3.75,3.98,4.285,4.491,U.S Dollar,US Gallon,2022-03-08
+Texas,TX,Waco,3.805,4.031,4.33,4.502,U.S Dollar,US Gallon,2022-03-08
+Texas,TX,Wichita Falls,3.774,3.962,4.292,4.387,U.S Dollar,US Gallon,2022-03-08
+Utah,UT,Logan,3.953,4.147,4.307,4.528,U.S Dollar,US Gallon,2022-03-08
+Utah,UT,Ogden,3.987,4.15,4.343,4.564,U.S Dollar,US Gallon,2022-03-08
+Utah,UT,Provo-Orem,3.999,4.142,4.325,4.586,U.S Dollar,US Gallon,2022-03-08
+Utah,UT,Salt Lake City,4.008,4.145,4.332,4.58,U.S Dollar,US Gallon,2022-03-08
+Utah,UT,St. George,4.118,4.257,4.474,4.507,U.S Dollar,US Gallon,2022-03-08
+Virginia,VA,Blacksburg-Christiansburg-Radford,4.069,4.297,4.616,4.755,U.S Dollar,US Gallon,2022-03-08
+Virginia,VA,Bristol-Scott-Washington,3.966,4.267,4.565,4.717,U.S Dollar,US Gallon,2022-03-08
+Virginia,VA,Charlottesville,4.111,4.391,4.691,4.848,U.S Dollar,US Gallon,2022-03-08
+Virginia,VA,Fredericksburg,4.14,4.481,4.812,4.852,U.S Dollar,US Gallon,2022-03-08
+Virginia,VA,Harrisonburg,4.075,4.409,4.698,4.861,U.S Dollar,US Gallon,2022-03-08
+Virginia,VA,Lynchburg,4.008,4.295,4.582,4.772,U.S Dollar,US Gallon,2022-03-08
+Virginia,VA,Norfolk-Virginia Beach-Newport News,4.156,4.448,4.794,4.798,U.S Dollar,US Gallon,2022-03-08
+Virginia,VA,Richmond-Petersburg,4.119,4.445,4.746,4.807,U.S Dollar,US Gallon,2022-03-08
+Virginia,VA,Roanoke,4.019,4.239,4.501,4.668,U.S Dollar,US Gallon,2022-03-08
+Virginia,VA,Staunton-Waynesboro,4.061,4.352,4.681,4.821,U.S Dollar,US Gallon,2022-03-08
+Virginia,VA,"Washington, DC, (VA Only)",4.196,4.54,4.836,4.815,U.S Dollar,US Gallon,2022-03-08
+Virginia,VA,Winchester,4.051,4.355,4.698,4.808,U.S Dollar,US Gallon,2022-03-08
+Vermont,VT,Burlington,4.234,4.363,4.601,4.821,U.S Dollar,US Gallon,2022-03-08
+Washington,WA,Bellingham,4.493,4.654,4.804,4.727,U.S Dollar,US Gallon,2022-03-08
+Washington,WA,Bremerton,4.539,4.657,4.792,4.957,U.S Dollar,US Gallon,2022-03-08
+Washington,WA,Clarkson,3.911,4.299,4.421,4.249,U.S Dollar,US Gallon,2022-03-08
+Washington,WA,Longview,4.566,4.652,4.798,4.962,U.S Dollar,US Gallon,2022-03-08
+Washington,WA,Mount Vernon-Anacortes,4.463,4.66,4.799,4.745,U.S Dollar,US Gallon,2022-03-08
+Washington,WA,Olympia,4.601,4.654,4.849,4.981,U.S Dollar,US Gallon,2022-03-08
+Washington,WA,Richland-Kennewick-Pasco,4.248,4.365,4.61,4.73,U.S Dollar,US Gallon,2022-03-08
+Washington,WA,Seattle-Bellevue-Everett,4.728,4.837,5.034,5.011,U.S Dollar,US Gallon,2022-03-08
+Washington,WA,Spokane,4.138,4.263,4.452,4.536,U.S Dollar,US Gallon,2022-03-08
+Washington,WA,Tacoma,4.642,4.759,4.915,4.991,U.S Dollar,US Gallon,2022-03-08
+Washington,WA,Vancouver,4.588,4.679,4.892,4.855,U.S Dollar,US Gallon,2022-03-08
+Washington,WA,Walla Walla,4.411,4.512,4.777,4.777,U.S Dollar,US Gallon,2022-03-08
+Washington,WA,Wenatchee,4.452,4.476,4.679,4.799,U.S Dollar,US Gallon,2022-03-08
+Washington,WA,Yakima,4.415,4.585,4.756,4.84,U.S Dollar,US Gallon,2022-03-08
+Wisconsin,WI,Appleton,3.925,4.137,4.62,4.472,U.S Dollar,US Gallon,2022-03-08
+Wisconsin,WI,Eau Claire,3.869,4.077,4.601,4.501,U.S Dollar,US Gallon,2022-03-08
+Wisconsin,WI,Fond du Lac,3.901,4.149,4.584,4.382,U.S Dollar,US Gallon,2022-03-08
+Wisconsin,WI,Green Bay,4.028,4.267,4.773,4.52,U.S Dollar,US Gallon,2022-03-08
+Wisconsin,WI,Janesville-Beloit,3.934,4.167,4.561,4.493,U.S Dollar,US Gallon,2022-03-08
+Wisconsin,WI,Kenosha County,3.93,4.135,4.557,4.461,U.S Dollar,US Gallon,2022-03-08
+Wisconsin,WI,La Crosse (WI only),3.97,4.173,4.725,4.69,U.S Dollar,US Gallon,2022-03-08
+Wisconsin,WI,Madison,3.924,4.15,4.638,4.534,U.S Dollar,US Gallon,2022-03-08
+Wisconsin,WI,Milwaukee-Waukesha,3.916,4.129,4.521,4.389,U.S Dollar,US Gallon,2022-03-08
+Wisconsin,WI,Oshkosh,3.934,4.2,4.618,4.514,U.S Dollar,US Gallon,2022-03-08
+Wisconsin,WI,Pierce -St. Croix County,3.933,4.261,4.606,4.58,U.S Dollar,US Gallon,2022-03-08
+Wisconsin,WI,Racine,3.897,4.153,4.532,4.512,U.S Dollar,US Gallon,2022-03-08
+Wisconsin,WI,Sheboygan,3.967,4.201,4.609,4.529,U.S Dollar,US Gallon,2022-03-08
+Wisconsin,WI,Superior,4.036,4.253,4.759,4.622,U.S Dollar,US Gallon,2022-03-08
+Wisconsin,WI,Wausau,4.06,4.28,4.692,4.48,U.S Dollar,US Gallon,2022-03-08
+West Virginia,WV,Beckly,3.993,4.232,4.547,4.819,U.S Dollar,US Gallon,2022-03-08
+West Virginia,WV,Charleston,4.018,4.229,4.494,4.753,U.S Dollar,US Gallon,2022-03-08
+West Virginia,WV,Hampshire County,3.993,4.449,4.794,4.826,U.S Dollar,US Gallon,2022-03-08
+West Virginia,WV,Huntington,3.973,4.192,4.441,4.75,U.S Dollar,US Gallon,2022-03-08
+West Virginia,WV,Jefferson County,4.043,4.406,4.708,4.834,U.S Dollar,US Gallon,2022-03-08
+West Virginia,WV,Mineral County,4.037,4.449,4.699,4.807,U.S Dollar,US Gallon,2022-03-08
+West Virginia,WV,Morgantown,3.991,4.298,4.588,4.756,U.S Dollar,US Gallon,2022-03-08
+West Virginia,WV,Parkersburg-Marietta (WV only),3.97,4.164,4.413,4.704,U.S Dollar,US Gallon,2022-03-08
+West Virginia,WV,Steubenville-Weirton (WV only),3.973,4.066,4.411,4.658,U.S Dollar,US Gallon,2022-03-08
+West Virginia,WV,"Washington, DC (WV Only)",4.126,4.428,4.745,4.87,U.S Dollar,US Gallon,2022-03-08
+West Virginia,WV,Wheeling (WV only),3.888,4.132,4.518,4.692,U.S Dollar,US Gallon,2022-03-08
+Wyoming,WY,Casper,3.71,3.925,4.196,4.346,U.S Dollar,US Gallon,2022-03-08
+Wyoming,WY,Cheyenne,3.76,3.992,4.265,4.293,U.S Dollar,US Gallon,2022-03-08

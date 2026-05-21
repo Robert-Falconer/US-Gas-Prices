@@ -1,0 +1,475 @@
+State-Name,State-Abbreviation,Metro-Name,Regular,Mid-Grade,Premium,Diesel,Currency,Unit,Date
+Alaska,AK,Anchorage,4.162,4.315,4.532,4.02,U.S Dollar,US Gallon,2023-06-23
+Alaska,AK,Fairbanks,4.167,4.33,4.473,4.543,U.S Dollar,US Gallon,2023-06-23
+Alaska,AK,Juneau,4.179,4.072,4.326,4.087,U.S Dollar,US Gallon,2023-06-23
+Alabama,AL,Anniston-Oxford,3.104,3.428,3.76,3.632,U.S Dollar,US Gallon,2023-06-23
+Alabama,AL,Auburn,3.083,3.446,3.828,3.55,U.S Dollar,US Gallon,2023-06-23
+Alabama,AL,Birmingham,3.146,3.543,3.925,3.699,U.S Dollar,US Gallon,2023-06-23
+Alabama,AL,Daphne-Fairhope-Foley,3.188,3.602,3.966,3.553,U.S Dollar,US Gallon,2023-06-23
+Alabama,AL,Decatur,3.127,3.448,3.864,3.569,U.S Dollar,US Gallon,2023-06-23
+Alabama,AL,Dothan,3.126,3.492,3.876,3.619,U.S Dollar,US Gallon,2023-06-23
+Alabama,AL,Florence-Muscle Shoals,3.222,3.61,3.969,3.636,U.S Dollar,US Gallon,2023-06-23
+Alabama,AL,Gadsden,3.139,3.51,3.915,3.561,U.S Dollar,US Gallon,2023-06-23
+Alabama,AL,Huntsville,3.155,3.494,3.841,3.664,U.S Dollar,US Gallon,2023-06-23
+Alabama,AL,Mobile,3.151,3.555,3.947,3.661,U.S Dollar,US Gallon,2023-06-23
+Alabama,AL,Montgomery,3.143,3.566,3.979,3.695,U.S Dollar,US Gallon,2023-06-23
+Alabama,AL,Russell County,3.1,3.477,3.798,3.6,U.S Dollar,US Gallon,2023-06-23
+Alabama,AL,Tuscaloosa,3.13,3.535,3.925,3.699,U.S Dollar,US Gallon,2023-06-23
+Arkansas,AR,Fayetteville-Springdale-Rogers,3.208,3.56,3.822,3.506,U.S Dollar,US Gallon,2023-06-23
+Arkansas,AR,Fort Smith (AR only),3.145,3.478,3.867,3.712,U.S Dollar,US Gallon,2023-06-23
+Arkansas,AR,Hot Springs,3.095,3.504,3.879,3.661,U.S Dollar,US Gallon,2023-06-23
+Arkansas,AR,Jonesboro,3.129,3.517,3.879,3.663,U.S Dollar,US Gallon,2023-06-23
+Arkansas,AR,Little Rock-North Little Rock,3.085,3.485,3.84,3.654,U.S Dollar,US Gallon,2023-06-23
+Arkansas,AR,Pine Bluff,3.11,3.528,3.973,3.543,U.S Dollar,US Gallon,2023-06-23
+Arkansas,AR,Texarkana (AR only),3.197,3.558,3.901,3.588,U.S Dollar,US Gallon,2023-06-23
+Arkansas,AR,West Memphis,3.108,3.406,4.013,3.5,U.S Dollar,US Gallon,2023-06-23
+Arizona,AZ,East Valley,4.179,4.513,4.794,4.035,U.S Dollar,US Gallon,2023-06-23
+Arizona,AZ,Flagstaff,4.016,4.218,4.47,4.35,U.S Dollar,US Gallon,2023-06-23
+Arizona,AZ,Glendale,4.252,4.61,4.87,4.061,U.S Dollar,US Gallon,2023-06-23
+Arizona,AZ,Lake Havasu-Kingman,3.93,4.042,4.416,4.314,U.S Dollar,US Gallon,2023-06-23
+Arizona,AZ,Peoria,4.337,4.694,4.976,4.176,U.S Dollar,US Gallon,2023-06-23
+Arizona,AZ,Phoenix Proper,4.206,4.55,4.824,4.085,U.S Dollar,US Gallon,2023-06-23
+Arizona,AZ,Phoenix-Mesa,4.198,4.555,4.822,4.085,U.S Dollar,US Gallon,2023-06-23
+Arizona,AZ,Pima County,3.883,4.198,4.463,4.095,U.S Dollar,US Gallon,2023-06-23
+Arizona,AZ,Prescott,3.997,4.377,4.621,4.246,U.S Dollar,US Gallon,2023-06-23
+Arizona,AZ,Scottsdale,4.354,4.792,5.028,4.334,U.S Dollar,US Gallon,2023-06-23
+Arizona,AZ,Sierra Vista-Douglas,3.581,3.831,4.145,4.106,U.S Dollar,US Gallon,2023-06-23
+Arizona,AZ,Tucson,3.875,4.194,4.458,4.092,U.S Dollar,US Gallon,2023-06-23
+Arizona,AZ,West Valley,4.29,4.651,4.918,4.111,U.S Dollar,US Gallon,2023-06-23
+Arizona,AZ,Yuma,3.855,4.198,4.431,4.435,U.S Dollar,US Gallon,2023-06-23
+California,CA,Bakersfield,4.867,5.062,5.247,5.346,U.S Dollar,US Gallon,2023-06-23
+California,CA,Chico-Paradise,4.666,4.827,4.986,4.688,U.S Dollar,US Gallon,2023-06-23
+California,CA,El Centro,4.728,4.883,5.082,4.976,U.S Dollar,US Gallon,2023-06-23
+California,CA,Fresno,4.794,5.008,5.178,5.153,U.S Dollar,US Gallon,2023-06-23
+California,CA,Hanford-Corcoran,4.851,4.935,5.077,5.202,U.S Dollar,US Gallon,2023-06-23
+California,CA,Los Angeles-Long Beach,4.916,5.133,5.26,5.072,U.S Dollar,US Gallon,2023-06-23
+California,CA,Madera-Chowchilla,4.766,4.991,5.243,5.115,U.S Dollar,US Gallon,2023-06-23
+California,CA,Merced,4.767,4.992,5.153,5.083,U.S Dollar,US Gallon,2023-06-23
+California,CA,Modesto,4.659,4.896,5.089,5.193,U.S Dollar,US Gallon,2023-06-23
+California,CA,Napa,4.977,5.138,5.271,5.383,U.S Dollar,US Gallon,2023-06-23
+California,CA,Oakland,4.835,5.054,5.2,5.173,U.S Dollar,US Gallon,2023-06-23
+California,CA,Orange County,4.844,5.059,5.176,4.847,U.S Dollar,US Gallon,2023-06-23
+California,CA,Redding,4.69,4.884,5.025,4.712,U.S Dollar,US Gallon,2023-06-23
+California,CA,Riverside,4.799,5.02,5.162,4.864,U.S Dollar,US Gallon,2023-06-23
+California,CA,Sacramento,4.751,4.976,5.144,4.953,U.S Dollar,US Gallon,2023-06-23
+California,CA,Salinas,4.988,5.186,5.37,5.445,U.S Dollar,US Gallon,2023-06-23
+California,CA,San Bernardino,4.833,5.017,5.187,4.863,U.S Dollar,US Gallon,2023-06-23
+California,CA,San Diego,4.891,5.11,5.263,4.906,U.S Dollar,US Gallon,2023-06-23
+California,CA,San Francisco,4.95,5.152,5.311,5.28,U.S Dollar,US Gallon,2023-06-23
+California,CA,San Jose,4.809,5.036,5.169,5.215,U.S Dollar,US Gallon,2023-06-23
+California,CA,San Luis Obispo-Atascadero-Paso Robles,5.139,5.326,5.5,5.603,U.S Dollar,US Gallon,2023-06-23
+California,CA,San Rafael,4.87,5.093,5.26,5.205,U.S Dollar,US Gallon,2023-06-23
+California,CA,Santa Barbara-Santa Maria-Lompoc,4.926,5.093,5.225,5.273,U.S Dollar,US Gallon,2023-06-23
+California,CA,Santa Cruz-Watsonville,4.872,5.12,5.254,5.454,U.S Dollar,US Gallon,2023-06-23
+California,CA,Santa Rosa,4.955,5.157,5.296,5.215,U.S Dollar,US Gallon,2023-06-23
+California,CA,Stockton-Lodi,4.67,4.926,5.084,5.004,U.S Dollar,US Gallon,2023-06-23
+California,CA,Vallejo-Fairfield,4.794,5.014,5.17,5.039,U.S Dollar,US Gallon,2023-06-23
+California,CA,Ventura,4.942,5.146,5.295,5.312,U.S Dollar,US Gallon,2023-06-23
+California,CA,Visalia-Tulare-Porterville,4.833,5.064,5.264,5.128,U.S Dollar,US Gallon,2023-06-23
+California,CA,Yolo,4.708,4.924,5.128,4.758,U.S Dollar,US Gallon,2023-06-23
+California,CA,Yuba City,4.505,4.797,4.96,4.696,U.S Dollar,US Gallon,2023-06-23
+Colorado,CO,Boulder-Longmont,3.582,3.971,4.292,3.87,U.S Dollar,US Gallon,2023-06-23
+Colorado,CO,Colorado Springs,3.623,4.017,4.316,3.843,U.S Dollar,US Gallon,2023-06-23
+Colorado,CO,Denver,3.596,3.988,4.287,3.816,U.S Dollar,US Gallon,2023-06-23
+Colorado,CO,Durango,3.658,3.919,4.189,4.241,U.S Dollar,US Gallon,2023-06-23
+Colorado,CO,Fort Collins-Loveland,3.601,3.961,4.287,3.963,U.S Dollar,US Gallon,2023-06-23
+Colorado,CO,Glenwood Springs,3.885,4.236,4.39,4.295,U.S Dollar,US Gallon,2023-06-23
+Colorado,CO,Grand Junction (CO only),3.588,3.894,4.175,3.982,U.S Dollar,US Gallon,2023-06-23
+Colorado,CO,Greeley,3.587,3.944,4.255,3.83,U.S Dollar,US Gallon,2023-06-23
+Colorado,CO,Pueblo,3.721,4.056,4.373,4.124,U.S Dollar,US Gallon,2023-06-23
+Colorado,CO,Vail,4.081,4.293,4.557,4.182,U.S Dollar,US Gallon,2023-06-23
+Connecticut,CT,Bridgeport,3.706,4.184,4.579,4.168,U.S Dollar,US Gallon,2023-06-23
+Connecticut,CT,Hartford,3.62,4.094,4.486,4.07,U.S Dollar,US Gallon,2023-06-23
+Connecticut,CT,Lower Fairfield County,3.699,4.15,4.533,4.178,U.S Dollar,US Gallon,2023-06-23
+Connecticut,CT,New Haven-Meriden,3.626,4.104,4.452,4.043,U.S Dollar,US Gallon,2023-06-23
+Connecticut,CT,New London-Norwich (CT only),3.628,4.098,4.496,4.134,U.S Dollar,US Gallon,2023-06-23
+Connecticut,CT,Windham,3.699,4.092,4.504,4.012,U.S Dollar,US Gallon,2023-06-23
+District of Columbia,DC,Washington (DC only),3.741,4.28,4.716,4.28,U.S Dollar,US Gallon,2023-06-23
+District of Columbia,DC,Washington (Entire Metro Average),3.508,3.974,4.289,3.912,U.S Dollar,US Gallon,2023-06-23
+Delaware,DE,Dover,3.408,3.771,4.058,3.694,U.S Dollar,US Gallon,2023-06-23
+Delaware,DE,Milford-Seaford,3.383,3.736,4.061,3.694,U.S Dollar,US Gallon,2023-06-23
+Delaware,DE,Wilmington-Newark (DE only),3.396,3.969,4.222,3.685,U.S Dollar,US Gallon,2023-06-23
+Florida,FL,Bradenton-Sarasota-Venice,3.372,3.79,4.107,3.755,U.S Dollar,US Gallon,2023-06-23
+Florida,FL,Crestview-Fort Walton Beach,3.277,3.627,3.987,3.568,U.S Dollar,US Gallon,2023-06-23
+Florida,FL,Daytona Beach,3.359,3.763,4.1,3.749,U.S Dollar,US Gallon,2023-06-23
+Florida,FL,Fort Lauderdale,3.403,3.821,4.14,3.812,U.S Dollar,US Gallon,2023-06-23
+Florida,FL,Fort Myers-Cape Coral,3.359,3.764,4.099,3.793,U.S Dollar,US Gallon,2023-06-23
+Florida,FL,Gainesville,3.392,3.774,4.161,3.803,U.S Dollar,US Gallon,2023-06-23
+Florida,FL,Homosassa Springs,3.385,3.761,4.121,3.826,U.S Dollar,US Gallon,2023-06-23
+Florida,FL,Jacksonville,3.32,3.727,4.072,3.728,U.S Dollar,US Gallon,2023-06-23
+Florida,FL,Lakeland-Winter Haven,3.349,3.753,4.044,3.742,U.S Dollar,US Gallon,2023-06-23
+Florida,FL,Melbourne-Titusville,3.302,3.721,4.056,3.771,U.S Dollar,US Gallon,2023-06-23
+Florida,FL,Miami,3.407,3.777,4.031,3.781,U.S Dollar,US Gallon,2023-06-23
+Florida,FL,Naples,3.467,3.858,4.213,3.84,U.S Dollar,US Gallon,2023-06-23
+Florida,FL,Ocala,3.352,3.713,4.065,3.744,U.S Dollar,US Gallon,2023-06-23
+Florida,FL,Orlando,3.317,3.708,4,3.754,U.S Dollar,US Gallon,2023-06-23
+Florida,FL,Panama City,3.313,3.708,4.078,3.554,U.S Dollar,US Gallon,2023-06-23
+Florida,FL,Pensacola,3.308,3.687,4.037,3.56,U.S Dollar,US Gallon,2023-06-23
+Florida,FL,Port St. Lucie,3.394,3.812,4.124,3.793,U.S Dollar,US Gallon,2023-06-23
+Florida,FL,Punta Gorda,3.362,3.818,4.133,3.777,U.S Dollar,US Gallon,2023-06-23
+Florida,FL,Sebastian-Vero Beach,3.323,3.76,4.124,3.809,U.S Dollar,US Gallon,2023-06-23
+Florida,FL,Sebring,3.373,3.823,4.09,3.688,U.S Dollar,US Gallon,2023-06-23
+Florida,FL,Tallahassee,3.394,3.761,4.178,3.833,U.S Dollar,US Gallon,2023-06-23
+Florida,FL,Tampa-St. Petersburg-Clearwater,3.332,3.736,4.071,3.725,U.S Dollar,US Gallon,2023-06-23
+Florida,FL,The Villages,3.368,3.789,4.149,3.716,U.S Dollar,US Gallon,2023-06-23
+Florida,FL,West Palm Beach-Boca Raton,3.536,3.99,4.317,3.929,U.S Dollar,US Gallon,2023-06-23
+Georgia,GA,Albany,3.253,3.607,3.983,3.583,U.S Dollar,US Gallon,2023-06-23
+Georgia,GA,Athens,3.251,3.632,3.963,3.72,U.S Dollar,US Gallon,2023-06-23
+Georgia,GA,Atlanta,3.305,3.708,4.091,3.824,U.S Dollar,US Gallon,2023-06-23
+Georgia,GA,Augusta-Aiken (GA only),3.293,3.738,4.113,3.67,U.S Dollar,US Gallon,2023-06-23
+Georgia,GA,Brunswick,3.317,3.767,4.073,3.801,U.S Dollar,US Gallon,2023-06-23
+Georgia,GA,Catoosa-Dade-Walker,3.2,3.703,4.048,3.723,U.S Dollar,US Gallon,2023-06-23
+Georgia,GA,Columbus (GA only),3.243,3.611,3.981,3.628,U.S Dollar,US Gallon,2023-06-23
+Georgia,GA,Dalton,3.257,3.666,4.024,3.602,U.S Dollar,US Gallon,2023-06-23
+Georgia,GA,Gainesville,3.237,3.603,3.978,3.72,U.S Dollar,US Gallon,2023-06-23
+Georgia,GA,Hinesville-Fort Stewart,3.307,3.806,4.136,3.733,U.S Dollar,US Gallon,2023-06-23
+Georgia,GA,Macon,3.276,3.722,4.14,3.783,U.S Dollar,US Gallon,2023-06-23
+Georgia,GA,Rome,3.197,3.579,4,3.627,U.S Dollar,US Gallon,2023-06-23
+Georgia,GA,Savannah,3.396,3.786,4.174,3.797,U.S Dollar,US Gallon,2023-06-23
+Georgia,GA,Valdosta,3.258,3.661,4.02,3.648,U.S Dollar,US Gallon,2023-06-23
+Georgia,GA,Warner Robins,3.236,3.603,3.973,3.564,U.S Dollar,US Gallon,2023-06-23
+Hawaii,HI,Hilo,4.76,5.02,5.299,5.809,U.S Dollar,US Gallon,2023-06-23
+Hawaii,HI,Honolulu,4.613,4.867,5.134,5.623,U.S Dollar,US Gallon,2023-06-23
+Hawaii,HI,Kahului,4.808,5.046,5.214,5.707,U.S Dollar,US Gallon,2023-06-23
+Hawaii,HI,Lihue (Kauai),5.223,5.576,5.808,6.499,U.S Dollar,US Gallon,2023-06-23
+Hawaii,HI,Wailuku,4.808,5.046,5.214,5.707,U.S Dollar,US Gallon,2023-06-23
+Iowa,IA,Ames,3.461,3.714,4.153,3.579,U.S Dollar,US Gallon,2023-06-23
+Iowa,IA,Cedar Rapids,3.362,3.736,4.209,3.757,U.S Dollar,US Gallon,2023-06-23
+Iowa,IA,Council Bluffs,3.362,3.62,4.11,3.548,U.S Dollar,US Gallon,2023-06-23
+Iowa,IA,Davenport-Moline-Rock Island (IA only),3.37,3.707,4.213,3.748,U.S Dollar,US Gallon,2023-06-23
+Iowa,IA,Des Moines,3.402,3.679,4.126,3.58,U.S Dollar,US Gallon,2023-06-23
+Iowa,IA,Dubuque,3.476,3.881,4.366,3.769,U.S Dollar,US Gallon,2023-06-23
+Iowa,IA,Iowa City,3.417,3.845,4.199,3.675,U.S Dollar,US Gallon,2023-06-23
+Iowa,IA,Sioux City (IA only),3.345,3.636,4.114,3.645,U.S Dollar,US Gallon,2023-06-23
+Iowa,IA,Waterloo-Cedar Falls,3.467,3.777,4.265,3.772,U.S Dollar,US Gallon,2023-06-23
+Idaho,ID,Boise City,3.947,4.11,4.302,3.847,U.S Dollar,US Gallon,2023-06-23
+Idaho,ID,Coeur D'Alene,4.098,4.315,4.637,4.059,U.S Dollar,US Gallon,2023-06-23
+Idaho,ID,Franklin,4.002,4.267,4.513,3.705,U.S Dollar,US Gallon,2023-06-23
+Idaho,ID,Idaho Falls,3.887,4.133,4.402,3.942,U.S Dollar,US Gallon,2023-06-23
+Idaho,ID,Lewiston,4.055,4.328,4.46,4.2,U.S Dollar,US Gallon,2023-06-23
+Idaho,ID,Pocatello,3.958,4.18,4.413,3.914,U.S Dollar,US Gallon,2023-06-23
+Idaho,ID,Twin Falls,3.908,4.151,4.396,3.961,U.S Dollar,US Gallon,2023-06-23
+Illinois,IL,Alexander County,3.699,0,0,0,U.S Dollar,US Gallon,2023-06-23
+Illinois,IL,Bloomington-Normal,3.606,4.05,4.366,3.678,U.S Dollar,US Gallon,2023-06-23
+Illinois,IL,Carbondale-Marion,3.722,4.107,4.489,3.995,U.S Dollar,US Gallon,2023-06-23
+Illinois,IL,Champaign-Urbana,3.675,4.091,4.424,3.732,U.S Dollar,US Gallon,2023-06-23
+Illinois,IL,Chicago Metro,4.349,4.828,5.3,4.051,U.S Dollar,US Gallon,2023-06-23
+Illinois,IL,City of Chicago,4.591,5.073,5.573,4.605,U.S Dollar,US Gallon,2023-06-23
+Illinois,IL,Danville,3.667,4.115,4.436,3.769,U.S Dollar,US Gallon,2023-06-23
+Illinois,IL,Davenport-Moline-Rock Island (IL only),3.719,4.111,4.5,4.148,U.S Dollar,US Gallon,2023-06-23
+Illinois,IL,Decatur,3.611,4.048,4.389,3.579,U.S Dollar,US Gallon,2023-06-23
+Illinois,IL,East Saint Louis,3.73,4.125,4.457,4.042,U.S Dollar,US Gallon,2023-06-23
+Illinois,IL,Elgin,4.094,4.611,5.069,3.866,U.S Dollar,US Gallon,2023-06-23
+Illinois,IL,Kankakee-Bradley,3.634,4.097,4.415,3.772,U.S Dollar,US Gallon,2023-06-23
+Illinois,IL,Lake County,4.217,4.687,5.183,3.789,U.S Dollar,US Gallon,2023-06-23
+Illinois,IL,Peoria-Pekin,3.687,4.11,4.497,3.959,U.S Dollar,US Gallon,2023-06-23
+Illinois,IL,Quincy,3.85,4.227,4.565,3.848,U.S Dollar,US Gallon,2023-06-23
+Illinois,IL,Rockford,3.767,4.2,4.583,3.789,U.S Dollar,US Gallon,2023-06-23
+Illinois,IL,Springfield,3.748,4.184,4.555,3.698,U.S Dollar,US Gallon,2023-06-23
+Indiana,IN,Bloomington,3.582,4.077,4.554,4.03,U.S Dollar,US Gallon,2023-06-23
+Indiana,IN,Clarksville,3.55,3.925,4.304,3.958,U.S Dollar,US Gallon,2023-06-23
+Indiana,IN,Columbus,3.434,3.912,4.359,3.846,U.S Dollar,US Gallon,2023-06-23
+Indiana,IN,Dearborn-Franklin-Ohio-Union,3.477,3.988,4.381,3.993,U.S Dollar,US Gallon,2023-06-23
+Indiana,IN,Elkhart,3.354,3.862,4.272,3.868,U.S Dollar,US Gallon,2023-06-23
+Indiana,IN,Evansville,3.367,3.737,4.112,4.06,U.S Dollar,US Gallon,2023-06-23
+Indiana,IN,Fort Wayne,3.355,3.874,4.352,3.861,U.S Dollar,US Gallon,2023-06-23
+Indiana,IN,Gary,3.906,4.431,4.877,3.925,U.S Dollar,US Gallon,2023-06-23
+Indiana,IN,Indianapolis,3.437,3.954,4.424,3.997,U.S Dollar,US Gallon,2023-06-23
+Indiana,IN,Kokomo,3.493,3.983,4.427,4.066,U.S Dollar,US Gallon,2023-06-23
+Indiana,IN,Lafayette,3.607,4.093,4.543,3.922,U.S Dollar,US Gallon,2023-06-23
+Indiana,IN,Michigan City-La Porte,3.732,4.254,4.717,3.769,U.S Dollar,US Gallon,2023-06-23
+Indiana,IN,Muncie,3.392,3.867,4.326,4.053,U.S Dollar,US Gallon,2023-06-23
+Indiana,IN,South Bend,3.335,3.878,4.346,3.908,U.S Dollar,US Gallon,2023-06-23
+Indiana,IN,Terre Haute,3.384,3.806,4.229,3.97,U.S Dollar,US Gallon,2023-06-23
+Kansas,KS,Kansas City (KS only),3.339,3.635,3.939,3.556,U.S Dollar,US Gallon,2023-06-23
+Kansas,KS,Lawrence,3.282,3.498,3.924,3.646,U.S Dollar,US Gallon,2023-06-23
+Kansas,KS,Manhattan,3.269,3.599,3.964,3.467,U.S Dollar,US Gallon,2023-06-23
+Kansas,KS,Topeka,3.197,3.515,3.864,3.581,U.S Dollar,US Gallon,2023-06-23
+Kansas,KS,Wichita,3.224,3.465,3.719,3.486,U.S Dollar,US Gallon,2023-06-23
+Kentucky,KY,Bowling Green,3.242,3.663,4.068,3.763,U.S Dollar,US Gallon,2023-06-23
+Kentucky,KY,Covington,3.436,3.927,4.343,3.582,U.S Dollar,US Gallon,2023-06-23
+Kentucky,KY,Elizabethtown-Fort Knox,3.271,3.717,4.091,3.531,U.S Dollar,US Gallon,2023-06-23
+Kentucky,KY,Henderson,3.209,3.528,3.87,3.474,U.S Dollar,US Gallon,2023-06-23
+Kentucky,KY,Hopkinsville,3.122,3.559,3.939,3.639,U.S Dollar,US Gallon,2023-06-23
+Kentucky,KY,Huntington-Ashland (KY only),3.478,3.961,4.426,3.924,U.S Dollar,US Gallon,2023-06-23
+Kentucky,KY,Lexington,3.381,3.846,4.244,3.89,U.S Dollar,US Gallon,2023-06-23
+Kentucky,KY,Louisville (KY only),3.745,4.229,4.629,3.698,U.S Dollar,US Gallon,2023-06-23
+Kentucky,KY,Owensboro,3.056,3.505,3.947,3.798,U.S Dollar,US Gallon,2023-06-23
+Louisiana,LA,Alexandria,3.073,3.441,3.761,3.578,U.S Dollar,US Gallon,2023-06-23
+Louisiana,LA,Baton Rouge,3.115,3.507,3.853,3.396,U.S Dollar,US Gallon,2023-06-23
+Louisiana,LA,Hammond,3.125,3.522,3.916,3.537,U.S Dollar,US Gallon,2023-06-23
+Louisiana,LA,Houma-Thibodaux,3.125,3.521,3.83,3.581,U.S Dollar,US Gallon,2023-06-23
+Louisiana,LA,Lafayette,3.138,3.489,3.853,3.475,U.S Dollar,US Gallon,2023-06-23
+Louisiana,LA,Lake Charles,3.116,3.469,3.871,3.563,U.S Dollar,US Gallon,2023-06-23
+Louisiana,LA,Monroe,3.033,3.425,3.793,3.4,U.S Dollar,US Gallon,2023-06-23
+Louisiana,LA,New Orleans,3.125,3.579,3.959,3.644,U.S Dollar,US Gallon,2023-06-23
+Louisiana,LA,Shreveport-Bossier City,3.14,3.5,3.828,3.363,U.S Dollar,US Gallon,2023-06-23
+Massachusetts,MA,Barnstable-Yarmouth,3.607,4.149,4.497,4.5,U.S Dollar,US Gallon,2023-06-23
+Massachusetts,MA,Boston (MA only),3.564,4.095,4.445,4.256,U.S Dollar,US Gallon,2023-06-23
+Massachusetts,MA,Cambridge-Newton-Framingham,3.581,4.094,4.444,4.316,U.S Dollar,US Gallon,2023-06-23
+Massachusetts,MA,Pittsfield,3.516,4.057,4.353,4.208,U.S Dollar,US Gallon,2023-06-23
+Massachusetts,MA,Seekonk,3.457,3.945,4.287,4.072,U.S Dollar,US Gallon,2023-06-23
+Massachusetts,MA,Springfield,3.457,3.928,4.269,3.97,U.S Dollar,US Gallon,2023-06-23
+Massachusetts,MA,Worcester,3.521,4.041,4.377,4.157,U.S Dollar,US Gallon,2023-06-23
+Maryland,MD,Annapolis,3.462,4.007,4.266,3.724,U.S Dollar,US Gallon,2023-06-23
+Maryland,MD,Baltimore,3.466,3.947,4.216,3.709,U.S Dollar,US Gallon,2023-06-23
+Maryland,MD,Bowie-St. Charles,3.494,4.152,4.402,3.812,U.S Dollar,US Gallon,2023-06-23
+Maryland,MD,Cumberland (MD Only),3.346,3.638,3.897,3.967,U.S Dollar,US Gallon,2023-06-23
+Maryland,MD,Frederick,3.434,3.807,4.053,3.735,U.S Dollar,US Gallon,2023-06-23
+Maryland,MD,Hagerstown,3.387,3.663,3.862,4.031,U.S Dollar,US Gallon,2023-06-23
+Maryland,MD,Salisbury,3.419,3.773,4.067,3.708,U.S Dollar,US Gallon,2023-06-23
+Maryland,MD,Washington (MD only),3.561,4.083,4.371,3.914,U.S Dollar,US Gallon,2023-06-23
+Maine,ME,Bangor,3.632,4.026,4.464,4.253,U.S Dollar,US Gallon,2023-06-23
+Maine,ME,Lewiston-Auburn,3.623,4.033,4.381,4.36,U.S Dollar,US Gallon,2023-06-23
+Maine,ME,Portland,3.606,4.014,4.386,4.244,U.S Dollar,US Gallon,2023-06-23
+Michigan,MI,Ann Arbor,3.59,4.053,4.526,4.006,U.S Dollar,US Gallon,2023-06-23
+Michigan,MI,Benton Harbor,3.461,3.911,4.386,3.863,U.S Dollar,US Gallon,2023-06-23
+Michigan,MI,Flint,3.45,3.896,4.34,3.836,U.S Dollar,US Gallon,2023-06-23
+Michigan,MI,Grand Rapids-Muskegon-Holland,3.45,3.93,4.41,3.728,U.S Dollar,US Gallon,2023-06-23
+Michigan,MI,Jackson,3.573,4.055,4.496,3.866,U.S Dollar,US Gallon,2023-06-23
+Michigan,MI,Lansing-East Lansing,3.513,4.014,4.485,3.974,U.S Dollar,US Gallon,2023-06-23
+Michigan,MI,Marquette,3.651,4.109,4.639,4.105,U.S Dollar,US Gallon,2023-06-23
+Michigan,MI,Metro Detroit,3.624,4.122,4.615,4.129,U.S Dollar,US Gallon,2023-06-23
+Michigan,MI,Saginaw-Bay City-Midland,3.458,3.914,4.396,3.82,U.S Dollar,US Gallon,2023-06-23
+Michigan,MI,Traverse City,3.555,4.031,4.469,4.011,U.S Dollar,US Gallon,2023-06-23
+Minnesota,MN,Duluth-Superior (MN only),3.511,3.901,4.222,3.837,U.S Dollar,US Gallon,2023-06-23
+Minnesota,MN,Houston County,3.524,0,4.339,3.705,U.S Dollar,US Gallon,2023-06-23
+Minnesota,MN,Mankato,3.514,3.768,4.211,3.464,U.S Dollar,US Gallon,2023-06-23
+Minnesota,MN,Minneapolis-St. Paul (MN only),3.491,3.81,4.176,3.832,U.S Dollar,US Gallon,2023-06-23
+Minnesota,MN,Moorhead,3.46,3.715,4.158,3.786,U.S Dollar,US Gallon,2023-06-23
+Minnesota,MN,Polk County,3.358,3.494,3.837,3.724,U.S Dollar,US Gallon,2023-06-23
+Minnesota,MN,Rochester,3.514,3.787,4.269,3.7,U.S Dollar,US Gallon,2023-06-23
+Minnesota,MN,St. Cloud,3.41,3.698,4.123,3.599,U.S Dollar,US Gallon,2023-06-23
+Missouri,MO,Cape Girardeau,3.145,3.433,3.727,3.644,U.S Dollar,US Gallon,2023-06-23
+Missouri,MO,Columbia,3.352,3.551,3.82,3.639,U.S Dollar,US Gallon,2023-06-23
+Missouri,MO,Jefferson City,3.335,3.53,3.902,3.683,U.S Dollar,US Gallon,2023-06-23
+Missouri,MO,Joplin,3.158,3.522,3.868,3.499,U.S Dollar,US Gallon,2023-06-23
+Missouri,MO,Kansas City (MO only),3.309,3.581,3.872,3.537,U.S Dollar,US Gallon,2023-06-23
+Missouri,MO,Springfield,3.24,3.547,3.908,3.5,U.S Dollar,US Gallon,2023-06-23
+Missouri,MO,St. Joseph,3.164,3.458,3.716,3.407,U.S Dollar,US Gallon,2023-06-23
+Missouri,MO,St. Louis (MO only),3.432,3.704,3.993,3.536,U.S Dollar,US Gallon,2023-06-23
+Mississippi,MS,Biloxi-Gulfport-Pascagoula,2.993,3.331,3.688,3.414,U.S Dollar,US Gallon,2023-06-23
+Mississippi,MS,Hattiesburg,2.97,3.34,3.704,3.651,U.S Dollar,US Gallon,2023-06-23
+Mississippi,MS,Jackson,2.996,3.365,3.704,3.456,U.S Dollar,US Gallon,2023-06-23
+Mississippi,MS,South Haven - Olive Branch,3.037,3.54,3.893,3.592,U.S Dollar,US Gallon,2023-06-23
+Montana,MT,Billings,3.785,4.068,4.383,4.19,U.S Dollar,US Gallon,2023-06-23
+Montana,MT,Great Falls,3.699,3.989,4.272,4.133,U.S Dollar,US Gallon,2023-06-23
+Montana,MT,Missoula,3.713,3.974,4.222,4.189,U.S Dollar,US Gallon,2023-06-23
+North Carolina,NC,Asheville,3.28,3.672,4.047,3.866,U.S Dollar,US Gallon,2023-06-23
+North Carolina,NC,Burlington,3.286,3.63,4.047,3.785,U.S Dollar,US Gallon,2023-06-23
+North Carolina,NC,Charlotte-Gastonia-Rock Hill (NC only),3.345,3.755,4.095,3.644,U.S Dollar,US Gallon,2023-06-23
+North Carolina,NC,Durham-Chapel Hill,3.354,3.745,4.088,3.841,U.S Dollar,US Gallon,2023-06-23
+North Carolina,NC,Fayetteville,3.306,3.681,4.072,3.673,U.S Dollar,US Gallon,2023-06-23
+North Carolina,NC,Goldsboro,3.278,3.694,4.045,3.742,U.S Dollar,US Gallon,2023-06-23
+North Carolina,NC,Greensboro,3.286,3.68,3.983,3.749,U.S Dollar,US Gallon,2023-06-23
+North Carolina,NC,Hickory-Lenoir-Morganton,3.237,3.612,3.958,3.645,U.S Dollar,US Gallon,2023-06-23
+North Carolina,NC,Jacksonville,3.281,3.641,4.013,3.658,U.S Dollar,US Gallon,2023-06-23
+North Carolina,NC,New Bern,3.28,3.623,4.002,3.666,U.S Dollar,US Gallon,2023-06-23
+North Carolina,NC,Norfolk-Virginia Beach-Newport News,3.289,3.786,4.053,3.53,U.S Dollar,US Gallon,2023-06-23
+North Carolina,NC,Raleigh,3.312,3.676,3.986,3.809,U.S Dollar,US Gallon,2023-06-23
+North Carolina,NC,Rocky Mount,3.288,3.663,4,3.615,U.S Dollar,US Gallon,2023-06-23
+North Carolina,NC,Wilmington,3.266,3.646,4.029,3.746,U.S Dollar,US Gallon,2023-06-23
+North Carolina,NC,Winston-Salem,3.265,3.665,3.99,3.695,U.S Dollar,US Gallon,2023-06-23
+North Dakota,ND,Bismarck,3.556,3.747,4.142,3.921,U.S Dollar,US Gallon,2023-06-23
+North Dakota,ND,Fargo-Moorhead (ND only),3.316,3.564,4.003,3.695,U.S Dollar,US Gallon,2023-06-23
+North Dakota,ND,Grand Forks (ND only),3.327,3.563,3.835,3.8,U.S Dollar,US Gallon,2023-06-23
+North Dakota,ND,Minot,3.496,3.842,4.062,3.89,U.S Dollar,US Gallon,2023-06-23
+Nebraska,NE,Columbus,3.359,3.494,4.231,3.762,U.S Dollar,US Gallon,2023-06-23
+Nebraska,NE,Grand Island,3.317,3.431,3.857,3.56,U.S Dollar,US Gallon,2023-06-23
+Nebraska,NE,Kearney,3.488,3.624,4.23,3.555,U.S Dollar,US Gallon,2023-06-23
+Nebraska,NE,Lincoln,3.426,3.618,4.25,3.644,U.S Dollar,US Gallon,2023-06-23
+Nebraska,NE,Norfolk,3.23,3.674,4.126,3.593,U.S Dollar,US Gallon,2023-06-23
+Nebraska,NE,North Platte,3.675,3.596,3.982,3.602,U.S Dollar,US Gallon,2023-06-23
+Nebraska,NE,Omaha (NE only),3.325,3.587,4.06,3.535,U.S Dollar,US Gallon,2023-06-23
+New Hampshire,NH,Manchester,3.478,3.982,4.377,4.162,U.S Dollar,US Gallon,2023-06-23
+New Hampshire,NH,Portsmouth-Rochester (NH only),3.5,3.909,4.322,4.066,U.S Dollar,US Gallon,2023-06-23
+New Jersey,NJ,Atlantic City,3.455,3.915,4.144,3.599,U.S Dollar,US Gallon,2023-06-23
+New Jersey,NJ,Bergen-Passaic,3.486,4.005,4.286,3.788,U.S Dollar,US Gallon,2023-06-23
+New Jersey,NJ,Cape May,3.543,3.932,4.125,3.79,U.S Dollar,US Gallon,2023-06-23
+New Jersey,NJ,Middlesex-Somerset-Hunterdon,3.51,4.035,4.31,3.637,U.S Dollar,US Gallon,2023-06-23
+New Jersey,NJ,Monmouth-Ocean,3.523,4.083,4.312,3.714,U.S Dollar,US Gallon,2023-06-23
+New Jersey,NJ,Newark,3.532,4.115,4.431,3.768,U.S Dollar,US Gallon,2023-06-23
+New Jersey,NJ,Parsippany-Troy Hills,3.471,4.048,4.287,3.755,U.S Dollar,US Gallon,2023-06-23
+New Jersey,NJ,Philadelphia (NJ Only),3.426,3.872,4.067,3.618,U.S Dollar,US Gallon,2023-06-23
+New Jersey,NJ,Trenton,3.479,4.006,4.259,3.672,U.S Dollar,US Gallon,2023-06-23
+New Jersey,NJ,Vineland,3.478,3.879,4.11,3.675,U.S Dollar,US Gallon,2023-06-23
+New Jersey,NJ,Warren County,3.416,3.908,4.182,3.595,U.S Dollar,US Gallon,2023-06-23
+New Mexico,NM,Albuquerque,3.583,3.982,4.255,3.812,U.S Dollar,US Gallon,2023-06-23
+New Mexico,NM,Farmington,3.772,4.084,4.353,4.617,U.S Dollar,US Gallon,2023-06-23
+New Mexico,NM,Las Cruces,3.452,3.889,4.211,3.711,U.S Dollar,US Gallon,2023-06-23
+New Mexico,NM,Santa Fe,3.561,4.003,4.267,4.119,U.S Dollar,US Gallon,2023-06-23
+Nevada,NV,Las Vegas (NV only),4.205,4.465,4.711,4.293,U.S Dollar,US Gallon,2023-06-23
+Nevada,NV,Reno,4.551,4.775,4.964,4.222,U.S Dollar,US Gallon,2023-06-23
+New York,NY,Albany-Schenectady-Troy,3.732,4.178,4.558,4.485,U.S Dollar,US Gallon,2023-06-23
+New York,NY,Batavia,3.638,4.103,4.378,4.526,U.S Dollar,US Gallon,2023-06-23
+New York,NY,Binghamton,3.692,4.053,4.437,4.463,U.S Dollar,US Gallon,2023-06-23
+New York,NY,Buffalo-Niagara Falls,3.674,4.054,4.418,4.771,U.S Dollar,US Gallon,2023-06-23
+New York,NY,Dutchess-Putnam County,3.724,4.266,4.608,4.41,U.S Dollar,US Gallon,2023-06-23
+New York,NY,Elmira,3.638,4.008,4.34,4.192,U.S Dollar,US Gallon,2023-06-23
+New York,NY,Glens Falls,3.805,4.203,4.614,4.337,U.S Dollar,US Gallon,2023-06-23
+New York,NY,Ithaca,3.699,4.075,4.461,4.774,U.S Dollar,US Gallon,2023-06-23
+New York,NY,Kingston,3.682,4.117,4.492,4.138,U.S Dollar,US Gallon,2023-06-23
+New York,NY,Nassau-Suffolk,3.616,4.075,4.396,4.136,U.S Dollar,US Gallon,2023-06-23
+New York,NY,New York,3.699,4.109,4.485,4.59,U.S Dollar,US Gallon,2023-06-23
+New York,NY,Rochester,3.731,4.133,4.505,4.797,U.S Dollar,US Gallon,2023-06-23
+New York,NY,Syracuse,3.691,4.102,4.523,4.583,U.S Dollar,US Gallon,2023-06-23
+New York,NY,Utica-Rome,3.781,4.171,4.591,4.638,U.S Dollar,US Gallon,2023-06-23
+New York,NY,Watertown-Fort Drum,3.781,4.257,4.631,4.687,U.S Dollar,US Gallon,2023-06-23
+New York,NY,White Plains,3.763,4.315,4.651,4.563,U.S Dollar,US Gallon,2023-06-23
+Ohio,OH,Akron,3.398,3.826,4.239,3.704,U.S Dollar,US Gallon,2023-06-23
+Ohio,OH,Belmont County,3.36,3.823,4.216,3.761,U.S Dollar,US Gallon,2023-06-23
+Ohio,OH,Canton-Massillon,3.424,3.853,4.28,3.626,U.S Dollar,US Gallon,2023-06-23
+Ohio,OH,Cincinnati (OH only),3.468,3.975,4.464,3.84,U.S Dollar,US Gallon,2023-06-23
+Ohio,OH,Cleveland-Lorain-Elyria,3.474,3.957,4.382,3.887,U.S Dollar,US Gallon,2023-06-23
+Ohio,OH,Columbus,3.491,3.933,4.347,3.873,U.S Dollar,US Gallon,2023-06-23
+Ohio,OH,Dayton,3.347,3.872,4.341,3.91,U.S Dollar,US Gallon,2023-06-23
+Ohio,OH,Lawerence County,3.414,3.927,4.403,3.932,U.S Dollar,US Gallon,2023-06-23
+Ohio,OH,Lima,3.364,3.886,4.338,3.797,U.S Dollar,US Gallon,2023-06-23
+Ohio,OH,Mansfield,3.505,3.966,4.38,3.807,U.S Dollar,US Gallon,2023-06-23
+Ohio,OH,Springfield,3.445,3.947,4.371,3.947,U.S Dollar,US Gallon,2023-06-23
+Ohio,OH,Steubenville-Weirton (OH only),3.493,3.96,4.391,4.021,U.S Dollar,US Gallon,2023-06-23
+Ohio,OH,Toledo,3.404,3.864,4.291,3.727,U.S Dollar,US Gallon,2023-06-23
+Ohio,OH,Youngstown-Warren,3.423,3.882,4.265,3.85,U.S Dollar,US Gallon,2023-06-23
+Oklahoma,OK,Lawton,3.016,3.314,3.579,3.385,U.S Dollar,US Gallon,2023-06-23
+Oklahoma,OK,Le Flore-Sequoyah,3.121,3.421,3.795,3.585,U.S Dollar,US Gallon,2023-06-23
+Oklahoma,OK,Oklahoma City,3.221,3.622,3.849,3.528,U.S Dollar,US Gallon,2023-06-23
+Oklahoma,OK,Tulsa,3.092,3.339,3.58,3.21,U.S Dollar,US Gallon,2023-06-23
+Oregon,OR,Albany,4.428,4.559,4.78,3.941,U.S Dollar,US Gallon,2023-06-23
+Oregon,OR,Bend,4.679,4.868,5.096,4.316,U.S Dollar,US Gallon,2023-06-23
+Oregon,OR,Corvallis,4.45,4.533,4.628,4.077,U.S Dollar,US Gallon,2023-06-23
+Oregon,OR,Eugene-Springfield,4.606,4.76,4.957,4.235,U.S Dollar,US Gallon,2023-06-23
+Oregon,OR,Grants Pass,4.867,4.965,5.231,4.568,U.S Dollar,US Gallon,2023-06-23
+Oregon,OR,Medford-Ashland,4.77,4.964,5.264,4.353,U.S Dollar,US Gallon,2023-06-23
+Oregon,OR,Pendleton,4.373,4.545,4.758,3.877,U.S Dollar,US Gallon,2023-06-23
+Oregon,OR,Portland-Vancouver (OR only),4.694,4.855,5.063,4.763,U.S Dollar,US Gallon,2023-06-23
+Oregon,OR,Salem,4.517,4.668,4.896,4.406,U.S Dollar,US Gallon,2023-06-23
+Pennsylvania,PA,Allentown-Bethlehem-Easton,3.588,4.035,4.338,4.067,U.S Dollar,US Gallon,2023-06-23
+Pennsylvania,PA,Altoona,3.691,3.985,4.141,4.56,U.S Dollar,US Gallon,2023-06-23
+Pennsylvania,PA,Bloomsburg-Berwick,3.595,3.918,4.18,4.26,U.S Dollar,US Gallon,2023-06-23
+Pennsylvania,PA,Chambersburg-Waynesboro,3.598,3.923,4.155,4.047,U.S Dollar,US Gallon,2023-06-23
+Pennsylvania,PA,East Stroudsburg,3.645,4.084,4.43,4.14,U.S Dollar,US Gallon,2023-06-23
+Pennsylvania,PA,Erie,3.657,3.929,4.283,4.455,U.S Dollar,US Gallon,2023-06-23
+Pennsylvania,PA,Gettysburg,3.659,4.011,4.26,4.455,U.S Dollar,US Gallon,2023-06-23
+Pennsylvania,PA,Harrisburg,3.571,3.906,4.161,4.341,U.S Dollar,US Gallon,2023-06-23
+Pennsylvania,PA,Johnstown,3.693,3.972,4.106,4.525,U.S Dollar,US Gallon,2023-06-23
+Pennsylvania,PA,Lancaster,3.587,3.944,4.217,4.309,U.S Dollar,US Gallon,2023-06-23
+Pennsylvania,PA,Lebanon,3.604,3.967,4.294,4.129,U.S Dollar,US Gallon,2023-06-23
+Pennsylvania,PA,Mercer County,3.612,3.898,4.123,4.413,U.S Dollar,US Gallon,2023-06-23
+Pennsylvania,PA,Philadelphia (PA only),3.676,4.115,4.341,4.087,U.S Dollar,US Gallon,2023-06-23
+Pennsylvania,PA,Pittsburgh,3.668,4.059,4.334,4.547,U.S Dollar,US Gallon,2023-06-23
+Pennsylvania,PA,Reading,3.582,3.959,4.2,4.005,U.S Dollar,US Gallon,2023-06-23
+Pennsylvania,PA,Scranton--Wilkes-Barre--Hazleton,3.704,4.077,4.428,4.393,U.S Dollar,US Gallon,2023-06-23
+Pennsylvania,PA,State College,3.676,3.973,4.142,4.479,U.S Dollar,US Gallon,2023-06-23
+Pennsylvania,PA,Williamsport,3.573,3.945,4.238,4.362,U.S Dollar,US Gallon,2023-06-23
+Pennsylvania,PA,York,3.677,3.998,4.262,4.54,U.S Dollar,US Gallon,2023-06-23
+Rhode Island,RI,Providence-Fall River-Warwick (RI only),3.53,4.113,4.455,4.234,U.S Dollar,US Gallon,2023-06-23
+South Carolina,SC,Aiken-Edgfield County,3.246,3.724,4.07,3.587,U.S Dollar,US Gallon,2023-06-23
+South Carolina,SC,Charleston-North Charleston,3.217,3.618,3.985,3.668,U.S Dollar,US Gallon,2023-06-23
+South Carolina,SC,Columbia,3.225,3.641,4.005,3.625,U.S Dollar,US Gallon,2023-06-23
+South Carolina,SC,Florence,3.185,3.578,3.964,3.763,U.S Dollar,US Gallon,2023-06-23
+South Carolina,SC,Greenville,3.259,3.612,3.91,3.538,U.S Dollar,US Gallon,2023-06-23
+South Carolina,SC,Hilton Head-Bluffton,3.317,3.764,4.143,3.767,U.S Dollar,US Gallon,2023-06-23
+South Carolina,SC,Myrtle Beach,3.199,3.595,3.944,3.592,U.S Dollar,US Gallon,2023-06-23
+South Carolina,SC,Rock Hill,3.188,3.583,3.906,3.527,U.S Dollar,US Gallon,2023-06-23
+South Carolina,SC,Spartanburg,3.228,3.607,3.988,3.61,U.S Dollar,US Gallon,2023-06-23
+South Carolina,SC,Sumter,3.234,3.635,4.024,3.691,U.S Dollar,US Gallon,2023-06-23
+South Dakota,SD,North Sioux City,3.456,3.602,4.107,3.474,U.S Dollar,US Gallon,2023-06-23
+South Dakota,SD,Rapid City,3.752,3.831,4.293,3.962,U.S Dollar,US Gallon,2023-06-23
+South Dakota,SD,Sioux Falls,3.303,3.654,4.097,3.709,U.S Dollar,US Gallon,2023-06-23
+Tennessee,TN,Chattanooga (TN only),3.099,3.462,3.801,3.43,U.S Dollar,US Gallon,2023-06-23
+Tennessee,TN,Clarksville-Hopkinsville (TN only),3.097,3.492,3.833,3.541,U.S Dollar,US Gallon,2023-06-23
+Tennessee,TN,Cleveland,3.163,3.514,3.892,3.518,U.S Dollar,US Gallon,2023-06-23
+Tennessee,TN,Jackson,3.179,3.594,3.996,3.893,U.S Dollar,US Gallon,2023-06-23
+Tennessee,TN,Johnson City,3.092,3.431,3.77,3.598,U.S Dollar,US Gallon,2023-06-23
+Tennessee,TN,Kingsport-Bristol,3.058,3.372,3.696,3.594,U.S Dollar,US Gallon,2023-06-23
+Tennessee,TN,Knoxville,3.112,3.48,3.833,3.644,U.S Dollar,US Gallon,2023-06-23
+Tennessee,TN,Memphis (TN only),3.141,3.597,3.947,3.866,U.S Dollar,US Gallon,2023-06-23
+Tennessee,TN,Morristown,3.147,3.487,3.86,3.692,U.S Dollar,US Gallon,2023-06-23
+Tennessee,TN,Nashville,3.195,3.601,3.966,3.651,U.S Dollar,US Gallon,2023-06-23
+Texas,TX,Abilene,3.178,3.526,3.782,3.393,U.S Dollar,US Gallon,2023-06-23
+Texas,TX,Amarillo,3.209,3.496,3.796,3.361,U.S Dollar,US Gallon,2023-06-23
+Texas,TX,Austin-San Marcos,3.233,3.647,3.99,3.42,U.S Dollar,US Gallon,2023-06-23
+Texas,TX,Beaumont-Port Arthur,3.134,3.527,3.909,3.436,U.S Dollar,US Gallon,2023-06-23
+Texas,TX,Brownsville-Harlingen,3.152,3.503,3.813,3.434,U.S Dollar,US Gallon,2023-06-23
+Texas,TX,College Station-Bryan,3.162,3.56,3.888,3.52,U.S Dollar,US Gallon,2023-06-23
+Texas,TX,Corpus Christi,3.269,3.64,3.947,3.356,U.S Dollar,US Gallon,2023-06-23
+Texas,TX,Dallas,3.323,3.657,4.002,3.435,U.S Dollar,US Gallon,2023-06-23
+Texas,TX,El Paso,3.503,3.93,4.245,3.602,U.S Dollar,US Gallon,2023-06-23
+Texas,TX,Fort Worth-Arlington,3.314,3.644,3.972,3.398,U.S Dollar,US Gallon,2023-06-23
+Texas,TX,Galveston-Texas City,3.206,3.644,3.954,3.421,U.S Dollar,US Gallon,2023-06-23
+Texas,TX,Houston,3.188,3.657,4.012,3.4,U.S Dollar,US Gallon,2023-06-23
+Texas,TX,Killeen-Temple-Fort Hood,3.194,3.523,3.802,3.32,U.S Dollar,US Gallon,2023-06-23
+Texas,TX,Laredo,3.201,3.525,3.836,3.443,U.S Dollar,US Gallon,2023-06-23
+Texas,TX,Longview,3.226,3.599,3.957,3.367,U.S Dollar,US Gallon,2023-06-23
+Texas,TX,Lubbock,3.04,3.387,3.657,3.221,U.S Dollar,US Gallon,2023-06-23
+Texas,TX,McAllen-Edinburg-Mission,3.161,3.532,3.855,3.369,U.S Dollar,US Gallon,2023-06-23
+Texas,TX,Midland,3.097,3.514,3.735,3.525,U.S Dollar,US Gallon,2023-06-23
+Texas,TX,Odessa,2.995,3.426,3.616,3.362,U.S Dollar,US Gallon,2023-06-23
+Texas,TX,San Angelo,2.996,3.349,3.69,3.239,U.S Dollar,US Gallon,2023-06-23
+Texas,TX,San Antonio,3.235,3.615,3.938,3.34,U.S Dollar,US Gallon,2023-06-23
+Texas,TX,Sherman-Denison,3.302,3.577,3.915,3.376,U.S Dollar,US Gallon,2023-06-23
+Texas,TX,Texarkana (TX only),3.246,3.559,3.904,3.525,U.S Dollar,US Gallon,2023-06-23
+Texas,TX,Tyler,3.181,3.538,3.865,3.307,U.S Dollar,US Gallon,2023-06-23
+Texas,TX,Victoria,3.205,3.491,3.791,3.409,U.S Dollar,US Gallon,2023-06-23
+Texas,TX,Waco,3.173,3.534,3.841,3.334,U.S Dollar,US Gallon,2023-06-23
+Texas,TX,Wichita Falls,3.138,3.5,3.775,3.397,U.S Dollar,US Gallon,2023-06-23
+Utah,UT,Logan,4.034,4.264,4.418,3.679,U.S Dollar,US Gallon,2023-06-23
+Utah,UT,Ogden,3.999,4.253,4.46,3.741,U.S Dollar,US Gallon,2023-06-23
+Utah,UT,Provo-Orem,3.978,4.204,4.418,3.696,U.S Dollar,US Gallon,2023-06-23
+Utah,UT,Salt Lake City,4,4.246,4.454,3.724,U.S Dollar,US Gallon,2023-06-23
+Utah,UT,St. George,4.027,4.244,4.434,3.97,U.S Dollar,US Gallon,2023-06-23
+Virginia,VA,Blacksburg-Christiansburg-Radford,3.349,3.738,4.075,3.654,U.S Dollar,US Gallon,2023-06-23
+Virginia,VA,Bristol-Scott-Washington,3.222,3.557,3.841,3.742,U.S Dollar,US Gallon,2023-06-23
+Virginia,VA,Charlottesville,3.321,3.663,3.948,3.773,U.S Dollar,US Gallon,2023-06-23
+Virginia,VA,Fredericksburg,3.198,3.532,3.792,3.622,U.S Dollar,US Gallon,2023-06-23
+Virginia,VA,Harrisonburg,3.27,3.585,3.879,3.617,U.S Dollar,US Gallon,2023-06-23
+Virginia,VA,Lynchburg,3.214,3.566,3.864,3.71,U.S Dollar,US Gallon,2023-06-23
+Virginia,VA,Norfolk-Virginia Beach-Newport News,3.427,3.814,4.146,3.726,U.S Dollar,US Gallon,2023-06-23
+Virginia,VA,Richmond-Petersburg,3.288,3.717,3.999,3.648,U.S Dollar,US Gallon,2023-06-23
+Virginia,VA,Roanoke,3.244,3.602,3.949,3.799,U.S Dollar,US Gallon,2023-06-23
+Virginia,VA,Staunton-Waynesboro,3.361,3.695,4,3.636,U.S Dollar,US Gallon,2023-06-23
+Virginia,VA,"Washington, DC, (VA Only)",3.457,3.908,4.221,3.887,U.S Dollar,US Gallon,2023-06-23
+Virginia,VA,Winchester,3.184,3.512,3.773,3.579,U.S Dollar,US Gallon,2023-06-23
+Vermont,VT,Burlington,3.653,3.951,4.412,3.874,U.S Dollar,US Gallon,2023-06-23
+Washington,WA,Bellingham,4.881,5.166,5.323,4.707,U.S Dollar,US Gallon,2023-06-23
+Washington,WA,Bremerton,4.974,5.134,5.336,4.927,U.S Dollar,US Gallon,2023-06-23
+Washington,WA,Clarkson,4.324,0,4.752,4.579,U.S Dollar,US Gallon,2023-06-23
+Washington,WA,Longview,5.059,5.195,5.372,4.965,U.S Dollar,US Gallon,2023-06-23
+Washington,WA,Mount Vernon-Anacortes,4.84,5.016,5.232,4.619,U.S Dollar,US Gallon,2023-06-23
+Washington,WA,Olympia,4.944,5.12,5.306,5.075,U.S Dollar,US Gallon,2023-06-23
+Washington,WA,Richland-Kennewick-Pasco,4.864,5.072,5.301,4.806,U.S Dollar,US Gallon,2023-06-23
+Washington,WA,Seattle-Bellevue-Everett,5.073,5.252,5.46,5.179,U.S Dollar,US Gallon,2023-06-23
+Washington,WA,Spokane,4.77,4.97,5.186,4.671,U.S Dollar,US Gallon,2023-06-23
+Washington,WA,Tacoma,4.975,5.146,5.352,5.033,U.S Dollar,US Gallon,2023-06-23
+Washington,WA,Vancouver,4.919,5.107,5.312,4.809,U.S Dollar,US Gallon,2023-06-23
+Washington,WA,Walla Walla,4.948,5.226,5.363,5.04,U.S Dollar,US Gallon,2023-06-23
+Washington,WA,Wenatchee,4.934,5.108,5.279,4.737,U.S Dollar,US Gallon,2023-06-23
+Washington,WA,Yakima,4.784,5.009,5.205,4.71,U.S Dollar,US Gallon,2023-06-23
+Wisconsin,WI,Appleton,3.42,3.851,4.339,3.657,U.S Dollar,US Gallon,2023-06-23
+Wisconsin,WI,Eau Claire,3.485,3.805,4.274,3.739,U.S Dollar,US Gallon,2023-06-23
+Wisconsin,WI,Fond du Lac,3.41,3.871,4.276,3.555,U.S Dollar,US Gallon,2023-06-23
+Wisconsin,WI,Green Bay,3.399,3.862,4.357,3.677,U.S Dollar,US Gallon,2023-06-23
+Wisconsin,WI,Janesville-Beloit,3.345,3.799,4.204,3.6,U.S Dollar,US Gallon,2023-06-23
+Wisconsin,WI,Kenosha County,3.732,4.245,4.604,3.764,U.S Dollar,US Gallon,2023-06-23
+Wisconsin,WI,La Crosse (WI only),3.454,3.829,4.368,3.628,U.S Dollar,US Gallon,2023-06-23
+Wisconsin,WI,Madison,3.426,3.895,4.287,3.658,U.S Dollar,US Gallon,2023-06-23
+Wisconsin,WI,Milwaukee-Waukesha,3.682,4.15,4.552,3.664,U.S Dollar,US Gallon,2023-06-23
+Wisconsin,WI,Oshkosh,3.409,3.822,4.309,3.593,U.S Dollar,US Gallon,2023-06-23
+Wisconsin,WI,Pierce -St. Croix County,3.548,3.894,4.317,3.757,U.S Dollar,US Gallon,2023-06-23
+Wisconsin,WI,Racine,3.693,4.114,4.523,3.709,U.S Dollar,US Gallon,2023-06-23
+Wisconsin,WI,Sheboygan,3.418,3.888,4.295,3.619,U.S Dollar,US Gallon,2023-06-23
+Wisconsin,WI,Superior,3.571,3.899,4.342,3.836,U.S Dollar,US Gallon,2023-06-23
+Wisconsin,WI,Wausau,3.478,3.912,4.343,3.689,U.S Dollar,US Gallon,2023-06-23
+West Virginia,WV,Beckley,3.559,3.854,4.132,3.793,U.S Dollar,US Gallon,2023-06-23
+West Virginia,WV,Charleston,3.409,3.729,4.03,3.777,U.S Dollar,US Gallon,2023-06-23
+West Virginia,WV,Hampshire County,3.535,3.749,3.849,3.944,U.S Dollar,US Gallon,2023-06-23
+West Virginia,WV,Huntington,3.421,3.768,4.002,3.877,U.S Dollar,US Gallon,2023-06-23
+West Virginia,WV,Jefferson County,3.476,3.847,4.1,3.867,U.S Dollar,US Gallon,2023-06-23
+West Virginia,WV,Mineral County,3.4,3.776,3.886,3.766,U.S Dollar,US Gallon,2023-06-23
+West Virginia,WV,Morgantown,3.534,3.895,4.178,3.927,U.S Dollar,US Gallon,2023-06-23
+West Virginia,WV,Parkersburg-Marietta (WV only),3.405,3.752,4.07,3.778,U.S Dollar,US Gallon,2023-06-23
+West Virginia,WV,Steubenville-Weirton (WV only),3.458,3.853,4.173,4.043,U.S Dollar,US Gallon,2023-06-23
+West Virginia,WV,"Washington, DC (WV Only)",3.472,3.817,4.086,3.898,U.S Dollar,US Gallon,2023-06-23
+West Virginia,WV,Wheeling (WV only),3.387,3.717,4.009,3.892,U.S Dollar,US Gallon,2023-06-23
+Wyoming,WY,Casper,3.29,3.575,3.876,3.876,U.S Dollar,US Gallon,2023-06-23
+Wyoming,WY,Cheyenne,3.451,3.74,3.991,4.004,U.S Dollar,US Gallon,2023-06-23
