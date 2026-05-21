@@ -38,6 +38,24 @@ python scrape_state_daily_averages.py
 python scrape_metro_daily_averages.py
 ```
 
+## Historical Backfill
+
+Every daily scrape is retained — older CSVs are never deleted, so
+`data/state-daily-averages/` and `data/metro-daily-averages/` build a complete
+time series over time.
+
+Earlier history (October 2021 – April 2024) can be imported from the R-based
+[ScrapeUSGasPrices](https://github.com/gueyenono/ScrapeUSGasPrices) project.
+Clone it next to this repository and run:
+
+```sh
+python backfill_from_r_repo.py --r-repo ../ScrapeUSGasPrices
+```
+
+The script converts that project's city/state CSVs into this repository's
+schema and writes them into the `data/` folders, skipping any dates that are
+already present. It uses only the Python standard library.
+
 ## Data Exploration
 The scraped data are saved in `csv` format, and may be found under `data` folder.
 
