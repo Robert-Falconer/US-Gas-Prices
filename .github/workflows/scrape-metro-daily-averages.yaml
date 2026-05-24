@@ -54,8 +54,6 @@ jobs:
     - name: Scrape metro daily averages
       id: scrape-metro-daily-averages
       run: |
-        rm ./data/metro-daily-averages/*.csv
-        git rm ./data/metro-daily-averages/*.csv
         python scrape_metro_daily_averages.py
 
     - name: Check for changes

@@ -3,10 +3,12 @@ Scrape state metro(s) gas price daily averages from AAA Gas Prices website.
 
 Usage::
 
-    mkdir -p data/metro-daily-averages
-    pip install selenium webdriver-manager pandas
+    pip install -r requirements.txt
     python scrape_metro_daily_averages.py
 
+The scraped rows are appended to ``data/metro-daily.parquet``. If the
+file already contains rows for today's date (e.g. the scrape is re-run),
+those rows are replaced rather than duplicated.
 """
 
 import datetime
@@ -22,6 +24,8 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
 from webdriver_manager.chrome import ChromeDriverManager
+
+from data_store import METRO_SCHEMA, append_day
 
 SOURCE_DEFAULT_URL = "https://gasprices.aaa.com/state-gas-price-averages/"
 SOURCE_URL = os.environ.get("SOURCE_URL") or SOURCE_DEFAULT_URL
@@ -183,13 +187,21 @@ df[HEADERS_DATE] = scrape_date
 df = df.rename(columns={"Mid": "Mid-Grade"})
 logging.info("Parsing data finished.")
 
-# save data
-data_pth = DATASETS_BASE_PATH / "metro-daily-averages" / f"{scrape_date}.csv"
+# save data — append to consolidated Parquet, replacing today's rows if re-run
+data_pth = DATASETS_BASE_PATH / "metro-daily.parquet"
 logging.info(f"Saving data at {data_pth}")
-data_pth = data_pth.expanduser().resolve()
-data_pth.parent.mkdir(parents=True, exist_ok=True)
-df.to_csv(data_pth, index=False)
-logging.info("Saving data finished.")
+total_rows = append_day(
+    df,
+    schema=METRO_SCHEMA,
+    path=data_pth,
+    scrape_date=scrape_date,
+    sort_keys=[
+        ("Date", "ascending"),
+        ("State-Abbreviation", "ascending"),
+        ("Metro-Name", "ascending"),
+    ],
+)
+logging.info(f"Saving data finished. Dataset now holds {total_rows} rows.")
 
 # close chrome
 chrome_driver.close()
