@@ -11,6 +11,7 @@ Python scripts that scrape US gas prices.
 - [selenium 4.14.0+](https://github.com/SeleniumHQ/selenium/tree/trunk/py)
 - [webdriver-manager 4.0.2+](https://github.com/SergeyPirogov/webdriver_manager)
 - [pandas 2.0.3+](https://github.com/pandas-dev/pandas)
+- [pyarrow 18.0.0+](https://github.com/apache/arrow)
 
 ## Usage
 
@@ -38,49 +39,55 @@ python scrape_state_daily_averages.py
 python scrape_metro_daily_averages.py
 ```
 
-## Historical Backfill
+## Data
 
-Every daily scrape is retained — older CSVs are never deleted, so
-`data/state-daily-averages/` and `data/metro-daily-averages/` build a complete
-time series over time.
+Scraped observations are stored as two consolidated Apache Parquet files:
 
-Earlier history (October 2021 – April 2024) can be imported from the R-based
-[ScrapeUSGasPrices](https://github.com/gueyenono/ScrapeUSGasPrices) project.
-Clone it next to this repository and run:
+- `data/state-daily.parquet` — one row per (Date, State).
+- `data/metro-daily.parquet` — one row per (Date, State, Metro).
 
-```sh
-python backfill_from_r_repo.py --r-repo ../ScrapeUSGasPrices
-```
+Each scrape run appends that day's rows to the appropriate file; if rows
+for the current date already exist (e.g. the workflow is re-run), they
+are replaced rather than duplicated. The full history back to
+**2021-10-01** is included.
 
-The script converts that project's city/state CSVs into this repository's
-schema and writes them into the `data/` folders, skipping any dates that are
-already present. It uses only the Python standard library.
+Schemas:
 
-## Data Exploration
-The scraped data are saved in `csv` format, and may be found under `data` folder.
+| state-daily.parquet                                                                                  | metro-daily.parquet                                                                                                |
+| ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| State-Name, State-Abbreviation, Regular, Mid-Grade, Premium, Diesel, Currency, Unit, Date | State-Name, State-Abbreviation, Metro-Name, Regular, Mid-Grade, Premium, Diesel, Currency, Unit, Date |
 
-- Explore part of the data using `pandas`, use:
+### Data Exploration
+
+- With `pandas`:
+
 ```python
 import pandas as pd
 
-# file = "./data/metro-daily-averages/2023-12-27.csv"
-file = "./data/state-daily-averages/2023-12-27.csv"
-df = pd.read_csv(file)
+states = pd.read_parquet("data/state-daily.parquet")
+metros = pd.read_parquet("data/metro-daily.parquet")
 
-df.info()
+states.info()
 ```
 
-- To explore all the data using `pandas`, use:
+- With `duckdb` (no read needed — query the file directly):
+
 ```python
-import glob
-import pandas as pd
+import duckdb
 
-# files = glob.glob("./data/metro-daily-averages/*.csv")
-files = glob.glob("./data/state-daily-averages/*.csv")
-dfs = [pd.read_csv(file) for file in files]
-df = pd.concat(dfs, ignore_index=True)
+duckdb.sql("""
+    SELECT Date, AVG(Regular) AS avg_regular
+    FROM 'data/state-daily.parquet'
+    GROUP BY Date
+    ORDER BY Date
+""").df()
+```
 
-df.info()
+- In R (via the `arrow` package):
+
+```r
+library(arrow)
+states <- read_parquet("data/state-daily.parquet")
 ```
 
 ## Contribute
